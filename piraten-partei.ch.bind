@@ -1,9 +1,9 @@
 $ORIGIN piraten-partei.ch.
 $TTL 600
 
-.			      IN A		178.250.135.37
-.			      IN MX		10 mail-1-p.piratenpartei.ch.
-.			      IN TXT	"v=spf1 a mx ?all"
+@			      IN A		178.250.135.37
+@			      IN MX		10 mail-1-p.piratenpartei.ch.
+@			      IN TXT	"v=spf1 a mx ?all"
 
 ag			      IN A		178.250.135.54
 ag			      IN MX		10 mail-1-p.piratenpartei.ch.

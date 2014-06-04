@@ -1,7 +1,3 @@
-partito-pirata.ch.			      600 IN SOA	ns1.piratenpartei.ch. postmaster.piratenpartei.ch. 2014040700 1200 180 604800 600
-partito-pirata.ch.			      500 IN NS		c.ns.buddyns.com.
-partito-pirata.ch.			      500 IN NS		ns1.piratenpartei.ch.
-partito-pirata.ch.			      500 IN NS		ns2.piratenpartei.ch.
 partito-pirata.ch.			      600 IN A		178.250.135.54
 partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 partito-pirata.ch.			      600 IN TXT	"v=spf1 a mx ?all"
