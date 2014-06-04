@@ -1,6 +1,0 @@
-partitopirata.mobi.			      600 IN SOA	ns1.piratenpartei.ch. postmaster.piratenpartei.ch. 2014040700 1200 180 604800 600
-partitopirata.mobi.			      500 IN NS		c.ns.buddyns.com.
-partitopirata.mobi.			      500 IN NS		ns1.piratenpartei.ch.
-partitopirata.mobi.			      500 IN NS		ns2.piratenpartei.ch.
-partitopirata.mobi.			      600 IN A		178.250.135.54
-*.partitopirata.mobi.			      600 IN A		178.250.135.54
