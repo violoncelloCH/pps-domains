@@ -1,5 +1,5 @@
-@ORIGIN piraten-partei.ch.
-@TTL 600
+$ORIGIN piraten-partei.ch.
+$TTL 600
 
 .			      IN A		178.250.135.37
 .			      IN MX		10 mail-1-p.piratenpartei.ch.
