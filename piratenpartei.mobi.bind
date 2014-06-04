@@ -2,5 +2,5 @@ piratenpartei.mobi.			      600 IN SOA	ns1.piratenpartei.ch. postmaster.piratenp
 piratenpartei.mobi.			      500 IN NS		c.ns.buddyns.com.
 piratenpartei.mobi.			      500 IN NS		ns1.piratenpartei.ch.
 piratenpartei.mobi.			      500 IN NS		ns2.piratenpartei.ch.
-piratenpartei.mobi.			      600 IN A		78.46.176.245
+piratenpartei.mobi.			      600 IN A		178.250.135.54
 *.piratenpartei.mobi.			      600 IN A		178.250.135.54

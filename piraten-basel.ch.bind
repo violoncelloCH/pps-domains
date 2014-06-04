@@ -2,7 +2,7 @@ piraten-basel.ch.			      600 IN SOA	ns1.piratenpartei.ch. postmaster.piratenpar
 piraten-basel.ch.			      500 IN NS		c.ns.buddyns.com.
 piraten-basel.ch.			      500 IN NS		ns1.piratenpartei.ch.
 piraten-basel.ch.			      500 IN NS		ns2.piratenpartei.ch.
-piraten-basel.ch.			      600 IN A		178.250.135.54
+piraten-basel.ch.			      600 IN A		178.250.135.37
 piraten-basel.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 piraten-basel.ch.			      600 IN TXT	"v=spf1 a mx ?all"
 www.piraten-basel.ch.			      600 IN CNAME	httponly.piratenpartei.ch.
