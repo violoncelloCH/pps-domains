@@ -49,7 +49,6 @@ lu.partitopirata.ch.			      600 IN A		178.250.135.37
 lu.partitopirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.lu.partitopirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
 mail.partitopirata.ch.			      600 IN A		178.250.135.37
-murray.partitopirata.ch.		      600 IN A		88.198.70.105
 my.partitopirata.ch.			      600 IN CNAME	httponly.piratenpartei.ch.
 ne.partitopirata.ch.			      600 IN A		178.250.135.37
 ne.partitopirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
