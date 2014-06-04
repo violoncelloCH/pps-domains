@@ -1,4 +1,0 @@
-localhost.				      600 IN SOA	localhost. rname.invalid. 0 86400 3600 604800 10800
-localhost.				      600 IN NS		localhost.
-localhost.				      600 IN A		127.0.0.1
-localhost.				      600 IN AAAA	::1

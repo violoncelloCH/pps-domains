@@ -1,4 +1,0 @@
-localhost.localdomain.			      600 IN SOA	localhost.localdomain. rname.invalid. 0 86400 3600 604800 10800
-localhost.localdomain.			      600 IN NS		localhost.localdomain.
-localhost.localdomain.			      600 IN A		127.0.0.1
-localhost.localdomain.			      600 IN AAAA	::1
