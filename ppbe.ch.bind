@@ -5,4 +5,4 @@ ppbe.ch.				      500 IN NS		ns2.piratenpartei.ch.
 ppbe.ch.				      600 IN A		178.250.135.37
 ppbe.ch.				      600 IN MX		10 mail-1-p.piratenpartei.ch.
 ppbe.ch.				      600 IN TXT	"v=spf1 a mx ?all"
-www.ppbe.ch.				      600 IN CNAME	httponly.piratenpartei.ch.
+www.ppbe.ch.				      600 IN A		178.250.135.37
