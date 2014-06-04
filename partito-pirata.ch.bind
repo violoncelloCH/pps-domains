@@ -1,0 +1,123 @@
+partito-pirata.ch.			      600 IN SOA	ns1.piratenpartei.ch. postmaster.piratenpartei.ch. 2014040700 1200 180 604800 600
+partito-pirata.ch.			      500 IN NS		c.ns.buddyns.com.
+partito-pirata.ch.			      500 IN NS		ns1.piratenpartei.ch.
+partito-pirata.ch.			      500 IN NS		ns2.piratenpartei.ch.
+partito-pirata.ch.			      600 IN A		178.250.135.54
+partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+partito-pirata.ch.			      600 IN TXT	"v=spf1 a mx ?all"
+ag.partito-pirata.ch.			      600 IN A		178.250.135.54
+ag.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.ag.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+ai.partito-pirata.ch.			      600 IN A		178.250.135.54
+ai.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.ai.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+ar.partito-pirata.ch.			      600 IN A		178.250.135.54
+ar.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.ar.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+bb.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+be.partito-pirata.ch.			      600 IN A		178.250.135.54
+be.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+bern.be.partito-pirata.ch.		      600 IN A		178.250.135.54
+bern.be.partito-pirata.ch.		      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.bern.be.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+www.be.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+bl.partito-pirata.ch.			      600 IN A		178.250.135.54
+bl.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.bl.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+bs.partito-pirata.ch.			      600 IN A		178.250.135.54
+bs.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.bs.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+carla.partito-pirata.ch.		      600 IN A		178.250.135.54
+chat.partito-pirata.ch.			      600 IN A		178.250.135.54
+d7.partito-pirata.ch.			      600 IN CNAME	largo.partito-pirata.ch.
+elaine.partito-pirata.ch.		      600 IN A		178.250.135.54
+equipment.partito-pirata.ch.		      600 IN A		178.250.135.54
+fester.partito-pirata.ch.		      600 IN A		178.250.135.54
+forum.partito-pirata.ch.		      600 IN A		178.250.135.54
+fr.partito-pirata.ch.			      600 IN A		178.250.135.54
+fr.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.fr.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+ge.partito-pirata.ch.			      600 IN A		178.250.135.54
+ge.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.ge.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+gl.partito-pirata.ch.			      600 IN A		178.250.135.54
+gl.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.gl.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+gr.partito-pirata.ch.			      600 IN A		178.250.135.54
+gr.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.gr.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+herman.partito-pirata.ch.		      600 IN A		178.250.135.54
+info.partito-pirata.ch.			      600 IN A		178.250.135.54
+irc.partito-pirata.ch.			      600 IN CNAME	ch.pirateirc.net.
+ju.partito-pirata.ch.			      600 IN A		178.250.135.54
+ju.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.ju.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+jump.partito-pirata.ch.			      600 IN A		178.250.135.54
+largo.partito-pirata.ch.		      600 IN A		178.250.135.54
+lechuck.partito-pirata.ch.		      600 IN A		178.250.135.54
+lists.partito-pirata.ch.		      600 IN A		178.250.135.54
+lists.partito-pirata.ch.		      600 IN MX		10 mail-1-p.piratenpartei.ch.
+lu.partito-pirata.ch.			      600 IN A		178.250.135.54
+lu.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.lu.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+mail.partito-pirata.ch.			      600 IN A		178.250.135.54
+murray.partito-pirata.ch.		      600 IN A		178.250.135.54
+my.partito-pirata.ch.			      600 IN A		178.250.135.54
+ne.partito-pirata.ch.			      600 IN A		178.250.135.54
+ne.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.ne.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+ns1.partito-pirata.ch.			      600 IN A		178.250.135.54
+ns2.partito-pirata.ch.			      600 IN A		178.250.135.54
+nw.partito-pirata.ch.			      600 IN A		178.250.135.54
+nw.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.nw.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+otis.partito-pirata.ch.			      600 IN A		178.250.135.54
+ow.partito-pirata.ch.			      600 IN A		178.250.135.54
+ow.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.ow.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+pivote.partito-pirata.ch.		      600 IN CNAME	fester.partito-pirata.ch.
+projects.partito-pirata.ch.		      600 IN A		178.250.135.54
+register.partito-pirata.ch.		      600 IN A		178.250.135.54
+sg.partito-pirata.ch.			      600 IN A		178.250.135.54
+sg.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.sg.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+sh.partito-pirata.ch.			      600 IN A		178.250.135.54
+sh.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.sh.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+smtp.partito-pirata.ch.			      600 IN CNAME	mail.piratenpartei.ch.
+so.partito-pirata.ch.			      600 IN A		178.250.135.54
+so.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.so.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+sz.partito-pirata.ch.			      600 IN A		178.250.135.54
+sz.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.sz.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+talk.partito-pirata.ch.			      600 IN A		178.250.135.54
+tg.partito-pirata.ch.			      600 IN A		178.250.135.54
+tg.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.tg.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+ti.partito-pirata.ch.			      600 IN A		178.250.135.54
+ti.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.ti.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+ur.partito-pirata.ch.			      600 IN A		178.250.135.54
+ur.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.ur.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+vd.partito-pirata.ch.			      600 IN A		178.250.135.54
+vd.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.vd.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+vs.partito-pirata.ch.			      600 IN A		178.250.135.54
+vs.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.vs.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+wally.partito-pirata.ch.		      600 IN A		178.250.135.54
+wally.partito-pirata.ch.		      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.partito-pirata.ch.			      600 IN CNAME	httponly.piratenpartei.ch.
+zg.partito-pirata.ch.			      600 IN A		178.250.135.54
+zg.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.zg.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+zh.partito-pirata.ch.			      600 IN A		178.250.135.54
+zh.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+stadt.zh.partito-pirata.ch.		      600 IN MX		10 mail-1-p.piratenpartei.ch.
+winterthur.zh.partito-pirata.ch.	      600 IN A		178.250.135.54
+winterthur.zh.partito-pirata.ch.	      600 IN MX		10 mail-1-p.piratenpartei.ch.
+www.winterthur.zh.partito-pirata.ch.	      600 IN CNAME	httponly.piratenpartei.ch.
+www.zh.partito-pirata.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
+zs.partito-pirata.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.

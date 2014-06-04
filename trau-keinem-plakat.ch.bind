@@ -1,0 +1,7 @@
+trau-keinem-plakat.ch.			      600 IN SOA	ns1.piratenpartei.ch. postmaster.piratenpartei.ch. 2014040700 1200 180 604800 600
+trau-keinem-plakat.ch.			      500 IN NS		c.ns.buddyns.com.
+trau-keinem-plakat.ch.			      500 IN NS		ns1.piratenpartei.ch.
+trau-keinem-plakat.ch.			      500 IN NS		ns2.piratenpartei.ch.
+trau-keinem-plakat.ch.			      600 IN A		178.250.135.54
+trau-keinem-plakat.ch.			      600 IN TXT	"v=spf1 a mx ?all"
+www.trau-keinem-plakat.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
