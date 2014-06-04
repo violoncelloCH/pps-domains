@@ -1,4 +1,4 @@
-piratenpartei.ch.			      600 IN SOA	ns1.piratenpartei.ch. postmaster.piratenpartei.ch. 2014040700 1200 180 604800 600
+piratenpartei.ch.			      600 IN SOA	ns1.piratenpartei.ch. postmaster.piratenpartei.ch. 2014060400 1200 180 604800 600
 piratenpartei.ch.			      600 IN NS		c.ns.buddyns.com.
 piratenpartei.ch.			      600 IN NS		ns1.piratenpartei.ch.
 piratenpartei.ch.			      600 IN NS		ns2.piratenpartei.ch.
@@ -92,7 +92,7 @@ ne.piratenpartei.ch.			      600 IN A		178.250.135.37
 ne.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.ne.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
 new.piratenpartei.ch.			      600 IN A		178.250.135.37
-ns1.piratenpartei.ch.			      600 IN A		178.250.135.41
+ns1.piratenpartei.ch.			      600 IN A		78.47.238.210 ; ns1.luadns.net (Germany)
 ns2.piratenpartei.ch.			      600 IN A		178.250.135.42
 nw.piratenpartei.ch.			      600 IN A		178.250.135.37
 nw.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
