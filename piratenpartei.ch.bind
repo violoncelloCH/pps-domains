@@ -103,8 +103,8 @@ priv-os-1-p.piratenpartei.ch.		      600 IN A		130.211.91.161
 projects.piratenpartei.ch.		      600 IN A		130.211.91.161
 proxy-1-p.piratenpartei.ch.		      600 IN A		130.211.91.161
 proxy-2-p.piratenpartei.ch.		      600 IN A		130.211.91.161
-puppet.piratenpartei.ch.		      600 IN A		130.211.91.161
-puppet-1-p.piratenpartei.ch.		      600 IN A		130.211.91.161
+puppet.piratenpartei.ch.		      600 IN A		95.128.36.132
+puppet-1-p.piratenpartei.ch.		      600 IN A		95.128.36.132
 reg.piratenpartei.ch.			      600 IN A		130.211.91.161
 register.piratenpartei.ch.		      600 IN A		130.211.91.161
 reverse-33.piratenpartei.ch.		      600 IN A		130.211.91.161
