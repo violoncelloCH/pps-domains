@@ -7,102 +7,75 @@ $TTL 600
 
 ag			      IN A		178.250.135.54
 ag			      IN MX		10 mail-1-p.piratenpartei.ch.
-www.ag			      IN CNAME	httponly.piratenpartei.ch.
 ai			      IN A		178.250.135.54
 ai			      IN MX		10 mail-1-p.piratenpartei.ch.
-www.ai			      IN CNAME	httponly.piratenpartei.ch.
 ar			      IN A		178.250.135.54
 ar			      IN MX		10 mail-1-p.piratenpartei.ch.
-www.ar			      IN CNAME	httponly.piratenpartei.ch.
+bb			      IN A		178.250.135.54
 bb			      IN MX		10 mail-1-p.piratenpartei.ch.
 be			      IN A		178.250.135.54
 be			      IN MX		10 mail-1-p.piratenpartei.ch.
 bern.be			      IN A		178.250.135.54
 bern.be			      IN MX		10 mail-1-p.piratenpartei.ch.
-www.bern.be		      IN CNAME	httponly.piratenpartei.ch.
-www.be			      IN CNAME	httponly.piratenpartei.ch.
 bl			      IN A		178.250.135.54
 bl			      IN MX		10 mail-1-p.piratenpartei.ch.
-www.bl			      IN CNAME	httponly.piratenpartei.ch.
 bs			      IN A		178.250.135.54
 bs			      IN MX		10 mail-1-p.piratenpartei.ch.
-www.bs			      IN CNAME	httponly.piratenpartei.ch.
 chat			      IN A		178.250.135.54
 equipment		      IN A		178.250.135.54
 forum			      IN A		178.250.135.54
 fr			      IN A		178.250.135.54
 fr			      IN MX		10 mail-1-p.piratenpartei.ch.
-www.fr			      IN CNAME	httponly.piratenpartei.ch.
 ge			      IN A		178.250.135.54
 ge			      IN MX		10 mail-1-p.piratenpartei.ch.
-www.ge			      IN CNAME	httponly.piratenpartei.ch.
 gl			      IN A		178.250.135.54
 gl			      IN MX		10 mail-1-p.piratenpartei.ch.
-www.gl			      IN CNAME	httponly.piratenpartei.ch.
 gr			      IN A		178.250.135.54
 gr			      IN MX		10 mail-1-p.piratenpartei.ch.
-www.gr			      IN CNAME	httponly.piratenpartei.ch.
 info			      IN A		178.250.135.54
 irc			      IN CNAME	ch.pirateirc.net.
 ju			      IN A		178.250.135.54
 ju			      IN MX		10 mail-1-p.piratenpartei.ch.
-www.ju			      IN CNAME	httponly.piratenpartei.ch.
 lists			      IN A		178.250.135.54
 lists			      IN MX		10 mail-1-p.piratenpartei.ch.
 lu			      IN A		178.250.135.54
 lu			      IN MX		10 mail-1-p.piratenpartei.ch.
-www.lu			      IN CNAME	httponly.piratenpartei.ch.
 mail			      IN A		178.250.135.54
 my			      IN CNAME	httponly.piratenpartei.ch.
 ne			      IN A		178.250.135.54
 ne			      IN MX		10 mail-1-p.piratenpartei.ch.
-www.ne			      IN CNAME	httponly.piratenpartei.ch.
 nw			      IN A		178.250.135.54
 nw			      IN MX		10 mail-1-p.piratenpartei.ch.
-www.nw			      IN CNAME	httponly.piratenpartei.ch.
 ow			      IN A		178.250.135.54
 ow			      IN MX		10 mail-1-p.piratenpartei.ch.
-www.ow			      IN CNAME	httponly.piratenpartei.ch.
 projects		      IN A		178.250.135.54
 register		      IN A		178.250.135.54
 sg			      IN A		178.250.135.54
 sg			      IN MX		10 mail-1-p.piratenpartei.ch.
-www.sg			      IN CNAME	httponly.piratenpartei.ch.
 sh			      IN A		178.250.135.54
 sh			      IN MX		10 mail-1-p.piratenpartei.ch.
-www.sh			      IN CNAME	httponly.piratenpartei.ch.
 smtp			      IN CNAME	mail.piratenpartei.ch.
 so			      IN A		178.250.135.54
 so			      IN MX		10 mail-1-p.piratenpartei.ch.
-www.so			      IN CNAME	httponly.piratenpartei.ch.
 sz			      IN A		178.250.135.54
 sz			      IN MX		10 mail-1-p.piratenpartei.ch.
-www.sz			      IN CNAME	httponly.piratenpartei.ch.
 talk			      IN A		178.250.135.54
 tg			      IN A		178.250.135.54
 tg			      IN MX		10 mail-1-p.piratenpartei.ch.
-www.tg			      IN CNAME	httponly.piratenpartei.ch.
 ti			      IN A		178.250.135.54
 ti			      IN MX		10 mail-1-p.piratenpartei.ch.
-www.ti			      IN CNAME	httponly.piratenpartei.ch.
 ur			      IN A		178.250.135.54
 ur			      IN MX		10 mail-1-p.piratenpartei.ch.
-www.ur			      IN CNAME	httponly.piratenpartei.ch.
 vd			      IN A		178.250.135.54
 vd			      IN MX		10 mail-1-p.piratenpartei.ch.
-www.vd			      IN CNAME	httponly.piratenpartei.ch.
 vs			      IN A		178.250.135.54
 vs			      IN MX		10 mail-1-p.piratenpartei.ch.
-www.vs			      IN CNAME	httponly.piratenpartei.ch.
 www			      IN CNAME	httponly.piratenpartei.ch.
 zg			      IN A		178.250.135.54
 zg			      IN MX		10 mail-1-p.piratenpartei.ch.
-www.zg			      IN CNAME	httponly.piratenpartei.ch.
 zh			      IN A		178.250.135.54
 zh			      IN MX		10 mail-1-p.piratenpartei.ch.
 stadt.zh		      IN MX		10 mail-1-p.piratenpartei.ch.
 winterthur.zh		      IN A		178.250.135.54
 winterthur.zh		      IN MX		10 mail-1-p.piratenpartei.ch.
-www.winterthur.zh	      IN CNAME	httponly.piratenpartei.ch.
-www.zh			      IN CNAME	httponly.piratenpartei.ch.
 zs			      IN MX		10 mail-1-p.piratenpartei.ch.
