@@ -1,81 +1,81 @@
 $ORIGIN piraten-partei.ch.
 $TTL 600
 
-@			      IN A		178.250.135.37
+@			      IN A		95.128.36.133
 @			      IN MX		10 mail-1-p.piratenpartei.ch.
 @			      IN TXT	"v=spf1 a mx ?all"
 
-ag			      IN A		178.250.135.54
+ag			      IN A		95.128.36.136
 ag			      IN MX		10 mail-1-p.piratenpartei.ch.
-ai			      IN A		178.250.135.54
+ai			      IN A		95.128.36.136
 ai			      IN MX		10 mail-1-p.piratenpartei.ch.
-ar			      IN A		178.250.135.54
+ar			      IN A		95.128.36.136
 ar			      IN MX		10 mail-1-p.piratenpartei.ch.
-bb			      IN A		178.250.135.54
+bb			      IN A		95.128.36.136
 bb			      IN MX		10 mail-1-p.piratenpartei.ch.
-be			      IN A		178.250.135.54
+be			      IN A		95.128.36.136
 be			      IN MX		10 mail-1-p.piratenpartei.ch.
-bern.be			      IN A		178.250.135.54
+bern.be			      IN A		95.128.36.136
 bern.be			      IN MX		10 mail-1-p.piratenpartei.ch.
-bl			      IN A		178.250.135.54
+bl			      IN A		95.128.36.136
 bl			      IN MX		10 mail-1-p.piratenpartei.ch.
-bs			      IN A		178.250.135.54
+bs			      IN A		95.128.36.136
 bs			      IN MX		10 mail-1-p.piratenpartei.ch.
-chat			      IN A		178.250.135.54
-equipment		      IN A		178.250.135.54
-forum			      IN A		178.250.135.54
-fr			      IN A		178.250.135.54
+chat			      IN A		95.128.36.136
+equipment		      IN A		95.128.36.136
+forum			      IN A		95.128.36.136
+fr			      IN A		95.128.36.136
 fr			      IN MX		10 mail-1-p.piratenpartei.ch.
-ge			      IN A		178.250.135.54
+ge			      IN A		95.128.36.136
 ge			      IN MX		10 mail-1-p.piratenpartei.ch.
-gl			      IN A		178.250.135.54
+gl			      IN A		95.128.36.136
 gl			      IN MX		10 mail-1-p.piratenpartei.ch.
-gr			      IN A		178.250.135.54
+gr			      IN A		95.128.36.136
 gr			      IN MX		10 mail-1-p.piratenpartei.ch.
-info			      IN A		178.250.135.54
+info			      IN A		95.128.36.136
 irc			      IN CNAME	ch.pirateirc.net.
-ju			      IN A		178.250.135.54
+ju			      IN A		95.128.36.136
 ju			      IN MX		10 mail-1-p.piratenpartei.ch.
-lists			      IN A		178.250.135.54
+lists			      IN A		95.128.36.136
 lists			      IN MX		10 mail-1-p.piratenpartei.ch.
-lu			      IN A		178.250.135.54
+lu			      IN A		95.128.36.136
 lu			      IN MX		10 mail-1-p.piratenpartei.ch.
-mail			      IN A		178.250.135.54
+mail			      IN A		95.128.36.136
 my			      IN CNAME	httponly.piratenpartei.ch.
-ne			      IN A		178.250.135.54
+ne			      IN A		95.128.36.136
 ne			      IN MX		10 mail-1-p.piratenpartei.ch.
-nw			      IN A		178.250.135.54
+nw			      IN A		95.128.36.136
 nw			      IN MX		10 mail-1-p.piratenpartei.ch.
-ow			      IN A		178.250.135.54
+ow			      IN A		95.128.36.136
 ow			      IN MX		10 mail-1-p.piratenpartei.ch.
-projects		      IN A		178.250.135.54
-register		      IN A		178.250.135.54
-sg			      IN A		178.250.135.54
+projects		      IN A		95.128.36.136
+register		      IN A		95.128.36.136
+sg			      IN A		95.128.36.136
 sg			      IN MX		10 mail-1-p.piratenpartei.ch.
-sh			      IN A		178.250.135.54
+sh			      IN A		95.128.36.136
 sh			      IN MX		10 mail-1-p.piratenpartei.ch.
 smtp			      IN CNAME	mail.piratenpartei.ch.
-so			      IN A		178.250.135.54
+so			      IN A		95.128.36.136
 so			      IN MX		10 mail-1-p.piratenpartei.ch.
-sz			      IN A		178.250.135.54
+sz			      IN A		95.128.36.136
 sz			      IN MX		10 mail-1-p.piratenpartei.ch.
-talk			      IN A		178.250.135.54
-tg			      IN A		178.250.135.54
+talk			      IN A		95.128.36.136
+tg			      IN A		95.128.36.136
 tg			      IN MX		10 mail-1-p.piratenpartei.ch.
-ti			      IN A		178.250.135.54
+ti			      IN A		95.128.36.136
 ti			      IN MX		10 mail-1-p.piratenpartei.ch.
-ur			      IN A		178.250.135.54
+ur			      IN A		95.128.36.136
 ur			      IN MX		10 mail-1-p.piratenpartei.ch.
-vd			      IN A		178.250.135.54
+vd			      IN A		95.128.36.136
 vd			      IN MX		10 mail-1-p.piratenpartei.ch.
-vs			      IN A		178.250.135.54
+vs			      IN A		95.128.36.136
 vs			      IN MX		10 mail-1-p.piratenpartei.ch.
 www			      IN CNAME	httponly.piratenpartei.ch.
-zg			      IN A		178.250.135.54
+zg			      IN A		95.128.36.136
 zg			      IN MX		10 mail-1-p.piratenpartei.ch.
-zh			      IN A		178.250.135.54
+zh			      IN A		95.128.36.136
 zh			      IN MX		10 mail-1-p.piratenpartei.ch.
 stadt.zh		      IN MX		10 mail-1-p.piratenpartei.ch.
-winterthur.zh		      IN A		178.250.135.54
+winterthur.zh		      IN A		95.128.36.136
 winterthur.zh		      IN MX		10 mail-1-p.piratenpartei.ch.
 zs			      IN MX		10 mail-1-p.piratenpartei.ch.
