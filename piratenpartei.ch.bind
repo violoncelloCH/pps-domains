@@ -1,58 +1,58 @@
-piratenpartei.ch.			      600 IN A		178.250.135.37
+piratenpartei.ch.			      600 IN A		130.211.91.161
 piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 piratenpartei.ch.			      600 IN TXT	"v=spf1 a mx ?all"
-admin.piratenpartei.ch.			      600 IN A		178.250.135.37
-ag.piratenpartei.ch.			      600 IN A		178.250.135.37
+admin.piratenpartei.ch.			      600 IN A		130.211.91.161
+ag.piratenpartei.ch.			      600 IN A		130.211.91.161
 ag.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.ag.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
-ai.piratenpartei.ch.			      600 IN A		178.250.135.37
+ai.piratenpartei.ch.			      600 IN A		130.211.91.161
 ai.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.ai.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
-ar.piratenpartei.ch.			      600 IN A		178.250.135.37
+ar.piratenpartei.ch.			      600 IN A		130.211.91.161
 ar.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.ar.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
-archive.piratenpartei.ch.		      600 IN A		178.250.135.37
-archive-1-p.piratenpartei.ch.		      600 IN A		178.250.135.59
-backup-1-p.piratenpartei.ch.		      600 IN A		178.250.135.58
+archive.piratenpartei.ch.		      600 IN A		130.211.91.161
+archive-1-p.piratenpartei.ch.		      600 IN A		130.211.91.161
+backup-1-p.piratenpartei.ch.		      600 IN A		130.211.91.161
 bb.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-be.piratenpartei.ch.			      600 IN A		178.250.135.37
+be.piratenpartei.ch.			      600 IN A		130.211.91.161
 be.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-bern.be.piratenpartei.ch.		      600 IN A		178.250.135.54
+bern.be.piratenpartei.ch.		      600 IN A		130.211.91.161
 bern.be.piratenpartei.ch.		      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.bern.be.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
 www.be.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
-bl.piratenpartei.ch.			      600 IN A		178.250.135.37
+bl.piratenpartei.ch.			      600 IN A		130.211.91.161
 bl.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.bl.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
-bs.piratenpartei.ch.			      600 IN A		178.250.135.37
+bs.piratenpartei.ch.			      600 IN A		130.211.91.161
 bs.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.bs.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
 carla.piratenpartei.ch.			      600 IN A		78.46.176.246
-chat.piratenpartei.ch.			      600 IN A		178.250.135.37
-crm.piratenpartei.ch.			      600 IN A		178.250.135.37
-dns-1-p.piratenpartei.ch.		      600 IN A		178.250.135.41
-dns-2-p.piratenpartei.ch.		      600 IN A		178.250.135.42
+chat.piratenpartei.ch.			      600 IN A		130.211.91.161
+crm.piratenpartei.ch.			      600 IN A		130.211.91.161
+dns-1-p.piratenpartei.ch.		      600 IN A		130.211.91.161
+dns-2-p.piratenpartei.ch.		      600 IN A		130.211.91.161
 elaine.piratenpartei.ch.		      600 IN A		88.198.68.43
-equipment.piratenpartei.ch.		      600 IN A		178.250.135.37
+equipment.piratenpartei.ch.		      600 IN A		130.211.91.161
 file-1-p.piratenpartei.ch.		      600 IN A		172.17.3.12
-forum.piratenpartei.ch.			      600 IN A		178.250.135.37
-fr.piratenpartei.ch.			      600 IN A		178.250.135.37
+forum.piratenpartei.ch.			      600 IN A		130.211.91.161
+fr.piratenpartei.ch.			      600 IN A		130.211.91.161
 fr.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.fr.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
-ge.piratenpartei.ch.			      600 IN A		178.250.135.37
+ge.piratenpartei.ch.			      600 IN A		130.211.91.161
 ge.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.ge.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
-gl.piratenpartei.ch.			      600 IN A		178.250.135.37
+gl.piratenpartei.ch.			      600 IN A		130.211.91.161
 gl.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.gl.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
-gr.piratenpartei.ch.			      600 IN A		178.250.135.37
+gr.piratenpartei.ch.			      600 IN A		130.211.91.161
 gr.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.gr.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
 herman.piratenpartei.ch.		      600 IN A		78.46.176.242
-httponly.piratenpartei.ch.		      600 IN A		178.250.135.54
-info.piratenpartei.ch.			      600 IN A		178.250.135.37
+httponly.piratenpartei.ch.		      600 IN A		130.211.91.161
+info.piratenpartei.ch.			      600 IN A		130.211.91.161
 irc.piratenpartei.ch.			      600 IN CNAME	ch.pirateirc.net.
-ju.piratenpartei.ch.			      600 IN A		178.250.135.37
+ju.piratenpartei.ch.			      600 IN A		130.211.91.161
 ju.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.ju.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
 jump.piratenpartei.ch.			      600 IN A		77.109.144.46
@@ -61,106 +61,106 @@ ldap-1-p.piratenpartei.ch.		      600 IN A		172.17.3.14
 ldap-2-p.piratenpartei.ch.		      600 IN A		172.17.3.15
 ldap-p.piratenpartei.ch.		      600 IN CNAME	ldap-1-p.piratenpartei.ch.
 lechuck.piratenpartei.ch.		      600 IN A		78.46.176.243
-lists.piratenpartei.ch.			      600 IN A		178.250.135.37
+lists.piratenpartei.ch.			      600 IN A		130.211.91.161
 lists.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 log-1-p.piratenpartei.ch.		      600 IN A		172.17.3.13
-lu.piratenpartei.ch.			      600 IN A		178.250.135.37
+lu.piratenpartei.ch.			      600 IN A		130.211.91.161
 lu.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.lu.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
-mail.piratenpartei.ch.			      600 IN A		178.250.135.37
-mail-1-p.piratenpartei.ch.		      600 IN A		178.250.135.46
+mail.piratenpartei.ch.			      600 IN A		130.211.91.161
+mail-1-p.piratenpartei.ch.		      600 IN A		130.211.91.161
 management.piratenpartei.ch.		      600 IN A		172.17.3.16
 mdb.piratenpartei.ch.			      600 IN CNAME	mdb-1-p.piratenpartei.ch.
-mdb-1-p.piratenpartei.ch.		      600 IN A		178.250.135.55
-member.piratenpartei.ch.		      600 IN A		178.250.135.37
+mdb-1-p.piratenpartei.ch.		      600 IN A		130.211.91.161
+member.piratenpartei.ch.		      600 IN A		130.211.91.161
 mgmt-1-p.piratenpartei.ch.		      600 IN A		172.17.2.67
-monitoring.piratenpartei.ch.		      600 IN A		178.250.135.37
-mumble-1-p.piratenpartei.ch.		      600 IN A		178.250.135.49
-mumble-2-p.piratenpartei.ch.		      600 IN A		178.250.135.50
+monitoring.piratenpartei.ch.		      600 IN A		130.211.91.161
+mumble-1-p.piratenpartei.ch.		      600 IN A		130.211.91.161
+mumble-2-p.piratenpartei.ch.		      600 IN A		130.211.91.161
 murray.piratenpartei.ch.		      600 IN A		88.198.70.105
 my.piratenpartei.ch.			      600 IN A		78.46.176.242
 mysql-1-p.piratenpartei.ch.		      600 IN A		172.17.3.11
-ne.piratenpartei.ch.			      600 IN A		178.250.135.37
+ne.piratenpartei.ch.			      600 IN A		130.211.91.161
 ne.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.ne.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
 ns1.piratenpartei.ch.			      600 IN A		78.47.238.210 ; ns1.luadns.net (Germany)
 ns2.piratenpartei.ch.			      600 IN A		185.14.186.249 ; ns2.luadns.net (Netherlands)
-nw.piratenpartei.ch.			      600 IN A		178.250.135.37
+nw.piratenpartei.ch.			      600 IN A		130.211.91.161
 nw.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.nw.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
-old.piratenpartei.ch.			      600 IN A		178.250.135.37
-otis.piratenpartei.ch.			      600 IN A		178.250.135.37
+old.piratenpartei.ch.			      600 IN A		130.211.91.161
+otis.piratenpartei.ch.			      600 IN A		130.211.91.161
 otrs-1-p.piratenpartei.ch.		      600 IN A		172.17.2.64
 otrs-2-p.piratenpartei.ch.		      600 IN A		172.17.2.65
-ow.piratenpartei.ch.			      600 IN A		178.250.135.37
+ow.piratenpartei.ch.			      600 IN A		130.211.91.161
 ow.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.ow.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
-pad.piratenpartei.ch.			      600 IN A		178.250.135.37
+pad.piratenpartei.ch.			      600 IN A		130.211.91.161
 pivote.piratenpartei.ch.		      600 IN CNAME	fester.piratenpartei.ch.
-pivote-1-p.piratenpartei.ch.		      600 IN A		178.250.135.52
-pivote-2-p.piratenpartei.ch.		      600 IN A		178.250.135.53
-priv-os-1-p.piratenpartei.ch.		      600 IN A		178.250.135.40
-projects.piratenpartei.ch.		      600 IN A		178.250.135.37
-proxy-1-p.piratenpartei.ch.		      600 IN A		178.250.135.38
-proxy-2-p.piratenpartei.ch.		      600 IN A		178.250.135.39
-puppet.piratenpartei.ch.		      600 IN A		178.250.135.36
-puppet-1-p.piratenpartei.ch.		      600 IN A		178.250.135.36
-reg.piratenpartei.ch.			      600 IN A		178.250.135.37
-register.piratenpartei.ch.		      600 IN A		178.250.135.37
-reverse-33.piratenpartei.ch.		      600 IN A		178.250.135.33
-reverse-34.piratenpartei.ch.		      600 IN A		178.250.135.34
-reverse-35.piratenpartei.ch.		      600 IN A		178.250.135.35
-reverse-36.piratenpartei.ch.		      600 IN A		178.250.135.36
-reverse-37.piratenpartei.ch.		      600 IN A		178.250.135.37
-reverse-38.piratenpartei.ch.		      600 IN A		178.250.135.38
-reverse-39.piratenpartei.ch.		      600 IN A		178.250.135.39
-reverse-40.piratenpartei.ch.		      600 IN A		178.250.135.40
-reverse-41.piratenpartei.ch.		      600 IN A		178.250.135.41
-reverse-42.piratenpartei.ch.		      600 IN A		178.250.135.42
-reverse-43.piratenpartei.ch.		      600 IN A		178.250.135.43
-reverse-44.piratenpartei.ch.		      600 IN A		178.250.135.44
-reverse-45.piratenpartei.ch.		      600 IN A		178.250.135.45
-reverse-46.piratenpartei.ch.		      600 IN A		178.250.135.46
-reverse-47.piratenpartei.ch.		      600 IN A		178.250.135.47
-reverse-48.piratenpartei.ch.		      600 IN A		178.250.135.48
-reverse-48.piratenpartei.ch.		      600 IN A		178.250.135.49
-reverse-49.piratenpartei.ch.		      600 IN A		178.250.135.49
-reverse-50.piratenpartei.ch.		      600 IN A		178.250.135.50
-reverse-51.piratenpartei.ch.		      600 IN A		178.250.135.51
-reverse-52.piratenpartei.ch.		      600 IN A		178.250.135.52
-reverse-53.piratenpartei.ch.		      600 IN A		178.250.135.53
-reverse-54.piratenpartei.ch.		      600 IN A		178.250.135.54
-reverse-55.piratenpartei.ch.		      600 IN A		178.250.135.55
-reverse-56.piratenpartei.ch.		      600 IN A		178.250.135.56
-reverse-57.piratenpartei.ch.		      600 IN A		178.250.135.57
+pivote-1-p.piratenpartei.ch.		      600 IN A		130.211.91.161
+pivote-2-p.piratenpartei.ch.		      600 IN A		130.211.91.161
+priv-os-1-p.piratenpartei.ch.		      600 IN A		130.211.91.161
+projects.piratenpartei.ch.		      600 IN A		130.211.91.161
+proxy-1-p.piratenpartei.ch.		      600 IN A		130.211.91.161
+proxy-2-p.piratenpartei.ch.		      600 IN A		130.211.91.161
+puppet.piratenpartei.ch.		      600 IN A		130.211.91.161
+puppet-1-p.piratenpartei.ch.		      600 IN A		130.211.91.161
+reg.piratenpartei.ch.			      600 IN A		130.211.91.161
+register.piratenpartei.ch.		      600 IN A		130.211.91.161
+reverse-33.piratenpartei.ch.		      600 IN A		130.211.91.161
+reverse-34.piratenpartei.ch.		      600 IN A		130.211.91.161
+reverse-35.piratenpartei.ch.		      600 IN A		130.211.91.161
+reverse-36.piratenpartei.ch.		      600 IN A		130.211.91.161
+reverse-37.piratenpartei.ch.		      600 IN A		130.211.91.161
+reverse-38.piratenpartei.ch.		      600 IN A		130.211.91.161
+reverse-39.piratenpartei.ch.		      600 IN A		130.211.91.161
+reverse-40.piratenpartei.ch.		      600 IN A		130.211.91.161
+reverse-41.piratenpartei.ch.		      600 IN A		130.211.91.161
+reverse-42.piratenpartei.ch.		      600 IN A		130.211.91.161
+reverse-43.piratenpartei.ch.		      600 IN A		130.211.91.161
+reverse-44.piratenpartei.ch.		      600 IN A		130.211.91.161
+reverse-45.piratenpartei.ch.		      600 IN A		130.211.91.161
+reverse-46.piratenpartei.ch.		      600 IN A		130.211.91.161
+reverse-47.piratenpartei.ch.		      600 IN A		130.211.91.161
+reverse-48.piratenpartei.ch.		      600 IN A		130.211.91.161
+reverse-48.piratenpartei.ch.		      600 IN A		130.211.91.161
+reverse-49.piratenpartei.ch.		      600 IN A		130.211.91.161
+reverse-50.piratenpartei.ch.		      600 IN A		130.211.91.161
+reverse-51.piratenpartei.ch.		      600 IN A		130.211.91.161
+reverse-52.piratenpartei.ch.		      600 IN A		130.211.91.161
+reverse-53.piratenpartei.ch.		      600 IN A		130.211.91.161
+reverse-54.piratenpartei.ch.		      600 IN A		130.211.91.161
+reverse-55.piratenpartei.ch.		      600 IN A		130.211.91.161
+reverse-56.piratenpartei.ch.		      600 IN A		130.211.91.161
+reverse-57.piratenpartei.ch.		      600 IN A		130.211.91.161
 rtpp-1.piratenpartei.ch.		      600 IN A		77.109.144.43
 rtpp-2.piratenpartei.ch.		      600 IN A		77.109.144.44
-sg.piratenpartei.ch.			      600 IN A		178.250.135.37
+sg.piratenpartei.ch.			      600 IN A		130.211.91.161
 sg.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.sg.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
-sh.piratenpartei.ch.			      600 IN A		178.250.135.37
+sh.piratenpartei.ch.			      600 IN A		130.211.91.161
 sh.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.sh.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
 smtp.piratenpartei.ch.			      600 IN CNAME	mail.piratenpartei.ch.
 smtprelay.piratenpartei.ch.		      600 IN CNAME	mail-1-p.piratenpartei.ch.
-so.piratenpartei.ch.			      600 IN A		178.250.135.37
+so.piratenpartei.ch.			      600 IN A		130.211.91.161
 so.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.so.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
 stan.piratenpartei.ch.			      600 IN A		78.46.176.241
-sz.piratenpartei.ch.			      600 IN A		178.250.135.37
+sz.piratenpartei.ch.			      600 IN A		130.211.91.161
 sz.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.sz.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
-talk.piratenpartei.ch.			      600 IN A		178.250.135.51
-tg.piratenpartei.ch.			      600 IN A		178.250.135.37
+talk.piratenpartei.ch.			      600 IN A		130.211.91.161
+tg.piratenpartei.ch.			      600 IN A		130.211.91.161
 tg.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.tg.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
-ti.piratenpartei.ch.			      600 IN A		178.250.135.37
+ti.piratenpartei.ch.			      600 IN A		130.211.91.161
 ti.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.ti.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
-ur.piratenpartei.ch.			      600 IN A		178.250.135.37
+ur.piratenpartei.ch.			      600 IN A		130.211.91.161
 ur.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.ur.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
-vd.piratenpartei.ch.			      600 IN A		178.250.135.37
+vd.piratenpartei.ch.			      600 IN A		130.211.91.161
 vd.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.vd.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
 virt1.piratenpartei.ch.			      600 IN A		10.1.2.102
@@ -168,7 +168,7 @@ bond0.virt1.piratenpartei.ch.		      600 IN A		192.168.0.1
 virt2.piratenpartei.ch.			      600 IN A		10.1.2.103
 bond0.virt2.piratenpartei.ch.		      600 IN A		192.168.0.2
 vm3.piratenpartei.ch.			      600 IN A		10.1.2.106
-vs.piratenpartei.ch.			      600 IN A		178.250.135.37
+vs.piratenpartei.ch.			      600 IN A		130.211.91.161
 vs.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.vs.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
 wally.piratenpartei.ch.			      600 IN A		88.198.70.106
@@ -237,18 +237,18 @@ webwp-8-p.piratenpartei.ch.		      600 IN A		172.17.2.20
 webwp-9-p.piratenpartei.ch.		      600 IN A		172.17.2.21
 www.piratenpartei.ch.			      600 IN CNAME	piratenpartei.ch.
 zabbix-1-p.piratenpartei.ch.		      600 IN A		172.17.2.43
-zg.piratenpartei.ch.			      600 IN A		178.250.135.37
+zg.piratenpartei.ch.			      600 IN A		130.211.91.161
 zg.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.zg.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
-zh.piratenpartei.ch.			      600 IN A		178.250.135.37
+zh.piratenpartei.ch.			      600 IN A		130.211.91.161
 zh.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-stadt.zh.piratenpartei.ch.		      600 IN A		178.250.135.37
+stadt.zh.piratenpartei.ch.		      600 IN A		130.211.91.161
 stadt.zh.piratenpartei.ch.		      600 IN MX		10 mail-1-p.piratenpartei.ch.
-winterthur.zh.piratenpartei.ch.		      600 IN A		178.250.135.37
+winterthur.zh.piratenpartei.ch.		      600 IN A		130.211.91.161
 winterthur.zh.piratenpartei.ch.		      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.winterthur.zh.piratenpartei.ch.	      600 IN CNAME	httponly.piratenpartei.ch.
 www.zh.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
-zs.piratenpartei.ch.			      600 IN A		178.250.135.37
+zs.piratenpartei.ch.			      600 IN A		130.211.91.161
 zs.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 
 ; jump host SSH fingerprint
