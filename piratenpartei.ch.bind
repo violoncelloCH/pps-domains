@@ -10,7 +10,7 @@ ar.piratenpartei.ch.			      600 IN A		95.128.36.133
 ar.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 archive.piratenpartei.ch.		      600 IN A		95.128.36.133
 archive-1-p.piratenpartei.ch.		      600 IN A		178.250.135.59
-backup-1-p.piratenpartei.ch.		      600 IN A		178.250.135.58
+backup-1-p.piratenpartei.ch.		      600 IN A		95.128.36.142
 bb.piratenpartei.ch.			      600 IN A		95.128.36.133
 bb.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 be.piratenpartei.ch.			      600 IN A		95.128.36.133
