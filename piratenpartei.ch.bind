@@ -46,7 +46,7 @@ info.piratenpartei.ch.			      600 IN A		95.128.36.133
 irc.piratenpartei.ch.			      600 IN CNAME	ch.pirateirc.net.
 ju.piratenpartei.ch.			      600 IN A		95.128.36.133
 ju.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-jump.piratenpartei.ch.			      600 IN A		95.128.36.140
+;jump.piratenpartei.ch.			      600 IN A		95.128.36.140
 largo.piratenpartei.ch.			      600 IN A		78.46.176.245
 ldap-1-p.piratenpartei.ch.		      600 IN A		172.17.3.14
 ldap-2-p.piratenpartei.ch.		      600 IN A		172.17.3.15
@@ -202,10 +202,10 @@ zs.piratenpartei.ch.			      600 IN A		95.128.36.133
 zs.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 
 ; jump host SSH fingerprint
-jump.piratenpartei.ch IN SSHFP 1 1 61255db24cb9723e0e84a5d26d7dd33f5e54e059
-jump.piratenpartei.ch IN SSHFP 1 2 03cb18ad9723a8338b897a053a2ee8b6b213f7019e79c93c4c86f50816efabb1
-jump.piratenpartei.ch IN SSHFP 2 1 6db4c672676ace81c49349544a3a3ba43d946355
-jump.piratenpartei.ch IN SSHFP 2 2 30fa8d7311c4e915699a8ff4a713205c21e9d1c5ed205d33b42dcaa3dd60376d
-jump.piratenpartei.ch IN SSHFP 3 1 7578144bd4594f0bad73af5ecdb59d9cbc269e22
-jump.piratenpartei.ch IN SSHFP 3 2 15ee2832893e4c41082ad4fa93c486033e788d038ff7ef57a5e353e4ccd73e1a
+;jump.piratenpartei.ch IN SSHFP 1 1 61255db24cb9723e0e84a5d26d7dd33f5e54e059
+;jump.piratenpartei.ch IN SSHFP 1 2 03cb18ad9723a8338b897a053a2ee8b6b213f7019e79c93c4c86f50816efabb1
+;jump.piratenpartei.ch IN SSHFP 2 1 6db4c672676ace81c49349544a3a3ba43d946355
+;jump.piratenpartei.ch IN SSHFP 2 2 30fa8d7311c4e915699a8ff4a713205c21e9d1c5ed205d33b42dcaa3dd60376d
+;jump.piratenpartei.ch IN SSHFP 3 1 7578144bd4594f0bad73af5ecdb59d9cbc269e22
+;jump.piratenpartei.ch IN SSHFP 3 2 15ee2832893e4c41082ad4fa93c486033e788d038ff7ef57a5e353e4ccd73e1a
 
