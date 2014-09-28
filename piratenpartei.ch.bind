@@ -22,6 +22,7 @@ bl.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 bs.piratenpartei.ch.			      600 IN A		95.128.36.133
 bs.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 carla.piratenpartei.ch.			      600 IN A		78.46.176.246
+cas.piratenpartei.ch.			      600 IN A		95.128.36.133
 chat.piratenpartei.ch.			      600 IN A		95.128.36.133
 coreos-1-p.piratenpartei.ch.		      600 IN A		172.17.2.10
 coreos-2-p.piratenpartei.ch.		      600 IN A		172.17.2.11
