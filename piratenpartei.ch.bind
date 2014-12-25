@@ -47,7 +47,7 @@ info.piratenpartei.ch.			      600 IN A		95.128.36.133
 irc.piratenpartei.ch.			      600 IN CNAME	ch.pirateirc.net.
 ju.piratenpartei.ch.			      600 IN A		95.128.36.133
 ju.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-;jump.piratenpartei.ch.			      600 IN A		95.128.36.140
+jump.piratenpartei.ch.			      600 IN A		95.128.36.140
 largo.piratenpartei.ch.			      600 IN A		78.46.176.245
 ldap-1-p.piratenpartei.ch.		      600 IN A		172.17.3.14
 ldap-2-p.piratenpartei.ch.		      600 IN A		172.17.3.15
