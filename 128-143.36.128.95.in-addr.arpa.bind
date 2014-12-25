@@ -9,6 +9,6 @@
 137	IN PTR	mail-1-p.piratenpartei.ch.
 138	IN PTR	mumble-1-p.piratenpartei.ch.
 139	IN PTR	mumble-2-p.piratenpartei.ch.
-140	IN PTR	jump-1-p.piratenpartei.ch.
+140	IN PTR	jump.piratenpartei.ch.
 141	IN PTR	swpp-1.piratenpartei.ch.
 ;142	IN PTR	reverse-142.piratenpartei.ch.
