@@ -125,6 +125,7 @@ vd.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 virt1.piratenpartei.ch.			      600 IN A		10.1.2.102
 bond0.virt1.piratenpartei.ch.		      600 IN A		192.168.0.1
 virt2.piratenpartei.ch.			      600 IN A		10.1.2.103
+virt3.piratenpartei.ch.			      600 IN A		176.9.118.213
 bond0.virt2.piratenpartei.ch.		      600 IN A		192.168.0.2
 vs.piratenpartei.ch.			      600 IN A		95.128.36.133
 vs.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
