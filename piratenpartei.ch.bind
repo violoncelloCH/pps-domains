@@ -29,9 +29,9 @@ coreos-2-p.piratenpartei.ch.		      600 IN A		172.17.2.11
 coreos-1-t.piratenpartei.ch.		      600 IN A		172.17.100.10
 coreos-2-t.piratenpartei.ch.		      600 IN A		172.17.100.11
 coreos-3-t.piratenpartei.ch.		      600 IN A		172.17.100.12
-; hosts for local development
-dev.piratenpartei.ch.   		      600 IN A		127.0.0.1
-*.dev.piratenpartei.ch. 		      600 IN A		127.0.0.1
+; hosts for development on pirate infra
+dev.piratenpartei.ch.   		      600 IN A		176.9.118.213
+*.dev.piratenpartei.ch. 		      600 IN A		176.9.118.213
 elaine.piratenpartei.ch.		      600 IN A		88.198.68.43
 equipment.piratenpartei.ch.		      600 IN A		95.128.36.133
 file-1-p.piratenpartei.ch.		      600 IN A		172.17.3.12
@@ -58,6 +58,9 @@ ldap-p.piratenpartei.ch.		      600 IN CNAME	ldap-1-p.piratenpartei.ch.
 lechuck.piratenpartei.ch.		      600 IN A		78.46.176.243
 lists.piratenpartei.ch.			      600 IN A		95.128.36.133
 lists.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+; hosts for local development
+local.piratenpartei.ch.   		      600 IN A		127.0.0.1
+*.local.piratenpartei.ch. 		      600 IN A		127.0.0.1
 lu.piratenpartei.ch.			      600 IN A		95.128.36.133
 lu.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 mail.piratenpartei.ch.			      600 IN A		95.128.36.133
