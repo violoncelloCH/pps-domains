@@ -58,9 +58,9 @@ ldap-p.piratenpartei.ch.		      600 IN CNAME	ldap-1-p.piratenpartei.ch.
 lechuck.piratenpartei.ch.		      600 IN A		78.46.176.243
 lists.piratenpartei.ch.			      600 IN A		95.128.36.133
 lists.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-; hosts for local development
-local.piratenpartei.ch.   		      600 IN A		127.0.0.1
-*.local.piratenpartei.ch. 		      600 IN A		127.0.0.1
+; hosts for local development, use docker default ip
+local.piratenpartei.ch.   		      600 IN A		172.17.42.1
+*.local.piratenpartei.ch. 		      600 IN A		172.17.42.1
 lu.piratenpartei.ch.			      600 IN A		95.128.36.133
 lu.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 mail.piratenpartei.ch.			      600 IN A		95.128.36.133
