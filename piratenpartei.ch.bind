@@ -29,9 +29,6 @@ coreos-2-p.piratenpartei.ch.		      600 IN A		172.17.2.11
 coreos-1-t.piratenpartei.ch.		      600 IN A		172.17.100.10
 coreos-2-t.piratenpartei.ch.		      600 IN A		172.17.100.11
 coreos-3-t.piratenpartei.ch.		      600 IN A		172.17.100.12
-; hosts for development on pirate infra
-dev.piratenpartei.ch.   		      600 IN A		176.9.118.213
-*.dev.piratenpartei.ch. 		      600 IN A		176.9.118.213
 elaine.piratenpartei.ch.		      600 IN A		88.198.68.43
 equipment.piratenpartei.ch.		      600 IN A		95.128.36.133
 file-1-p.piratenpartei.ch.		      600 IN A		172.17.3.12
@@ -110,6 +107,9 @@ swpp-1.piratenpartei.ch.		      600 IN AAAA	2001:618:1:146::ff
 sz.piratenpartei.ch.			      600 IN A		95.128.36.133
 sz.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 talk.piratenpartei.ch.			      600 IN CNAME	mumble-2-p.piratenpartei.ch.
+; hosts for development on pirate infra
+test.piratenpartei.ch.   		      600 IN A		176.9.118.213
+*.test.piratenpartei.ch. 		      600 IN A		176.9.118.213
 tg.piratenpartei.ch.			      600 IN A		95.128.36.133
 tg.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 ti.piratenpartei.ch.			      600 IN A		95.128.36.133
