@@ -70,7 +70,7 @@ monitoring.piratenpartei.ch.		      600 IN A		95.128.36.133
 mumble-1-p.piratenpartei.ch.		      600 IN A		95.128.36.138
 mumble-2-p.piratenpartei.ch.		      600 IN A		95.128.36.139
 murray.piratenpartei.ch.		      600 IN A		88.198.70.105
-my.piratenpartei.ch.			      600 IN A		78.46.176.242
+my.piratenpartei.ch.			      600 IN A		95.128.36.133
 mysql-1-p.piratenpartei.ch.		      600 IN A		172.17.3.11
 ne.piratenpartei.ch.			      600 IN A		95.128.36.133
 ne.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
