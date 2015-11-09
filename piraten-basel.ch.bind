@@ -1,4 +1,4 @@
 piraten-basel.ch.			      600 IN A		95.128.36.133
 piraten-basel.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 piraten-basel.ch.			      600 IN TXT	"v=spf1 a mx ?all"
-www.piraten-basel.ch.			      600 IN CNAME	httponly.piratenpartei.ch.
+www.piraten-basel.ch.			      600 IN CNAME	piraten-basel.ch.
