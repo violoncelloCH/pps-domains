@@ -78,3 +78,8 @@ winterthur.zh.partipirate.ch.		      600 IN A		95.128.36.136
 winterthur.zh.partipirate.ch.		      600 IN MX		10 mail-1-p.piratenpartei.ch.
 zs.pirateparty.ch.			      600 IN A		95.128.36.133
 zs.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+discourse.partipirate.ch.                     600 IN A          78.46.227.181
+votation.partipirate.ch.                      600 IN A          78.46.227.181
+id.partipirate.ch.                            600 IN A          78.46.227.180
+vvvote1.partipirate.ch.                       600 IN A          78.46.227.182
+vvvote2.partipirate.ch.                       600 IN A          78.46.227.182
