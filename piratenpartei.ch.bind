@@ -143,11 +143,6 @@ winterthur.zh.piratenpartei.ch.		      600 IN A		95.128.36.133
 winterthur.zh.piratenpartei.ch.		      600 IN MX		10 mail-1-p.piratenpartei.ch.
 zs.piratenpartei.ch.			      600 IN A		95.128.36.133
 zs.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-discourse.piratenpartei.ch.		      600 IN A		78.46.227.181
-abstimmung.piratenpartei.ch.		      600 IN A		78.46.227.181
-id.piratenpartei.ch.			      600 IN A		78.46.227.180
-vvvote1.piratenpartei.ch.		      600 IN A		78.46.227.182
-vvvote2.piratenpartei.ch.		      600 IN A		78.46.227.182
 
 ; jump host SSH fingerprint
 ;jump.piratenpartei.ch IN SSHFP 1 1 61255db24cb9723e0e84a5d26d7dd33f5e54e059
