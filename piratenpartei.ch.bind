@@ -31,6 +31,8 @@ coreos-2-p.piratenpartei.ch.		      600 IN A		172.17.2.11
 coreos-1-t.piratenpartei.ch.		      600 IN A		172.17.100.10
 coreos-2-t.piratenpartei.ch.		      600 IN A		172.17.100.11
 coreos-3-t.piratenpartei.ch.		      600 IN A		172.17.100.12
+; temporary host until it replaces forum..
+discourse.piratenpartei.ch.                   600 IN A          78.46.227.181
 elaine.piratenpartei.ch.		      600 IN A		88.198.68.43
 equipment.piratenpartei.ch.		      600 IN A		95.128.36.133
 file-1-p.piratenpartei.ch.		      600 IN A		172.17.3.12
