@@ -16,7 +16,8 @@ backup-1-p.piratenpartei.ch.		      600 IN A		95.128.36.142
 bb.piratenpartei.ch.			      600 IN A		95.128.36.133
 bb.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 be.piratenpartei.ch.			      600 IN A		95.128.36.133
-www.be.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch. 
+idapi.piratenpartei.ch.			      600 IN A		78.46.227.180
+www.be.piratenpartei.ch.		      600 IN CNAME	httponly.piratenpartei.ch.
 be.piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 bern.be.piratenpartei.ch.		      600 IN A		95.128.36.136
 bern.be.piratenpartei.ch.		      600 IN MX		10 mail-1-p.piratenpartei.ch.
