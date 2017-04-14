@@ -78,3 +78,4 @@ stadt.zh		      IN MX		10 mail-1-p.piratenpartei.ch.
 winterthur.zh		      IN A		95.128.36.136
 winterthur.zh		      IN MX		10 mail-1-p.piratenpartei.ch.
 zs			      IN MX		10 mail-1-p.piratenpartei.ch.
+zs			      IN A              95.128.36.136
