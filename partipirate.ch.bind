@@ -83,8 +83,6 @@ winterthur.zh.partipirate.ch.		      600 IN A		95.128.36.136
 winterthur.zh.partipirate.ch.		      600 IN MX		10 mail-1-p.piratenpartei.ch.
 zs.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 
-cyon                          600 IN A          149.126.4.43
-
-zs                            600 IN CNAME              cyon
-steinhausen                   600 IN CNAME              cyon
+zs                            600 IN A          149.126.4.43
+steinhausen                   600 IN A          149.126.4.43
 
