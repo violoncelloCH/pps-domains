@@ -42,7 +42,6 @@ ti			      IN MX		10 mail-1-p.piratenpartei.ch.
 ur			      IN MX		10 mail-1-p.piratenpartei.ch.
 vd			      IN MX		10 mail-1-p.piratenpartei.ch.
 vs			      IN MX		10 mail-1-p.piratenpartei.ch.
-www			      IN CNAME	httponly.piratenpartei.ch.
 zg			      IN MX		10 mail-1-p.piratenpartei.ch.
 zh			      IN MX		10 mail-1-p.piratenpartei.ch.
 stadt.zh		      IN MX		10 mail-1-p.piratenpartei.ch.
