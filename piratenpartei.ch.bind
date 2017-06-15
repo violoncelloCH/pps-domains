@@ -1,7 +1,6 @@
 $ORIGIN piratenpartei.ch.
 $TTL 600
 
-piratenpartei.ch.			      600 IN A		95.128.36.133
 piratenpartei.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 piratenpartei.ch.			      600 IN TXT	"v=spf1 a mx ?all"
 abstimmung.piratenpartei.ch.		      600 IN A          78.46.227.181
