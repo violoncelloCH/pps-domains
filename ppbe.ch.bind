@@ -1,4 +1,8 @@
-ppbe.ch.				      600 IN A		95.128.36.133
+$ORIGIN ppbe.ch.
+$TTL 600
+
 ppbe.ch.				      600 IN MX		10 mail-1-p.piratenpartei.ch.
 ppbe.ch.				      600 IN TXT	"v=spf1 a mx ?all"
-www.ppbe.ch.				      600 IN A		95.128.36.133
+
+@				      600 IN A		149.126.4.43
+www				      600 IN A		149.126.4.43

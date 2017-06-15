@@ -1,3 +1,6 @@
+$ORIGIN partipirate.ch.
+$TTL 600
+
 partipirate.ch.				      600 IN MX		10 mail-1-p.piratenpartei.ch.
 partipirate.ch.				      600 IN TXT	"v=spf1 a mx ?all"
 ag.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
