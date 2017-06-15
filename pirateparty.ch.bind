@@ -1,4 +1,4 @@
-$ORIGIN pirate-party.ch.
+$ORIGIN pirateparty.ch.
 $TTL 600
 
 pirateparty.ch.				      600 IN MX		10 mail-1-p.piratenpartei.ch.
