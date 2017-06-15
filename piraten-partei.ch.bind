@@ -1,9 +1,21 @@
 $ORIGIN piraten-partei.ch.
 $TTL 600
 
-@			      IN MX		10 mail-1-p.piratenpartei.ch.
-@			      IN TXT	"v=spf1 a mx ?all"
+chat			      IN A		95.128.36.136
+equipment		      IN A		95.128.36.136
+forum			      IN A		95.128.36.136
+info			      IN A		95.128.36.136
+lists			      IN A		95.128.36.136
+mail			      IN A		95.128.36.136
+projects		      IN A		95.128.36.136
+register		      IN A		95.128.36.136
 
+smtp			      IN CNAME		mail.piratenpartei.ch.
+irc			      IN CNAME		ch.pirateirc.net.
+my			      IN CNAME		httponly.piratenpartei.ch.
+
+@			      IN TXT		"v=spf1 a mx ?all"
+@			      IN MX		10 mail-1-p.piratenpartei.ch.
 ag			      IN MX		10 mail-1-p.piratenpartei.ch.
 ai			      IN MX		10 mail-1-p.piratenpartei.ch.
 ar			      IN MX		10 mail-1-p.piratenpartei.ch.
@@ -12,29 +24,18 @@ be			      IN MX		10 mail-1-p.piratenpartei.ch.
 bern.be			      IN MX		10 mail-1-p.piratenpartei.ch.
 bl			      IN MX		10 mail-1-p.piratenpartei.ch.
 bs			      IN MX		10 mail-1-p.piratenpartei.ch.
-chat			      IN A		95.128.36.136
-equipment		      IN A		95.128.36.136
-forum			      IN A		95.128.36.136
 fr			      IN MX		10 mail-1-p.piratenpartei.ch.
 ge			      IN MX		10 mail-1-p.piratenpartei.ch.
 gl			      IN MX		10 mail-1-p.piratenpartei.ch.
 gr			      IN MX		10 mail-1-p.piratenpartei.ch.
-info			      IN A		95.128.36.136
-irc			      IN CNAME	ch.pirateirc.net.
 ju			      IN MX		10 mail-1-p.piratenpartei.ch.
-lists			      IN A		95.128.36.136
 lists			      IN MX		10 mail-1-p.piratenpartei.ch.
 lu			      IN MX		10 mail-1-p.piratenpartei.ch.
-mail			      IN A		95.128.36.136
-my			      IN CNAME	httponly.piratenpartei.ch.
 ne			      IN MX		10 mail-1-p.piratenpartei.ch.
 nw			      IN MX		10 mail-1-p.piratenpartei.ch.
 ow			      IN MX		10 mail-1-p.piratenpartei.ch.
-projects		      IN A		95.128.36.136
-register		      IN A		95.128.36.136
 sg			      IN MX		10 mail-1-p.piratenpartei.ch.
 sh			      IN MX		10 mail-1-p.piratenpartei.ch.
-smtp			      IN CNAME	mail.piratenpartei.ch.
 so			      IN MX		10 mail-1-p.piratenpartei.ch.
 sz			      IN MX		10 mail-1-p.piratenpartei.ch.
 tg			      IN MX		10 mail-1-p.piratenpartei.ch.
