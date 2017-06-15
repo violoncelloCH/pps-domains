@@ -1,83 +1,87 @@
 $ORIGIN piraten-partei.ch.
 $TTL 600
 
-@			      IN A		95.128.36.133
 @			      IN MX		10 mail-1-p.piratenpartei.ch.
 @			      IN TXT	"v=spf1 a mx ?all"
 
-ag			      IN A		95.128.36.136
 ag			      IN MX		10 mail-1-p.piratenpartei.ch.
-ai			      IN A		95.128.36.136
 ai			      IN MX		10 mail-1-p.piratenpartei.ch.
-ar			      IN A		95.128.36.136
 ar			      IN MX		10 mail-1-p.piratenpartei.ch.
-bb			      IN A		95.128.36.136
 bb			      IN MX		10 mail-1-p.piratenpartei.ch.
-be			      IN A		95.128.36.136
 be			      IN MX		10 mail-1-p.piratenpartei.ch.
-bern.be			      IN A		95.128.36.136
 bern.be			      IN MX		10 mail-1-p.piratenpartei.ch.
-bl			      IN A		95.128.36.136
 bl			      IN MX		10 mail-1-p.piratenpartei.ch.
-bs			      IN A		95.128.36.136
 bs			      IN MX		10 mail-1-p.piratenpartei.ch.
 chat			      IN A		95.128.36.136
 equipment		      IN A		95.128.36.136
 forum			      IN A		95.128.36.136
-fr			      IN A		95.128.36.136
 fr			      IN MX		10 mail-1-p.piratenpartei.ch.
-ge			      IN A		95.128.36.136
 ge			      IN MX		10 mail-1-p.piratenpartei.ch.
-gl			      IN A		95.128.36.136
 gl			      IN MX		10 mail-1-p.piratenpartei.ch.
-gr			      IN A		95.128.36.136
 gr			      IN MX		10 mail-1-p.piratenpartei.ch.
 info			      IN A		95.128.36.136
 irc			      IN CNAME	ch.pirateirc.net.
-ju			      IN A		95.128.36.136
 ju			      IN MX		10 mail-1-p.piratenpartei.ch.
 lists			      IN A		95.128.36.136
 lists			      IN MX		10 mail-1-p.piratenpartei.ch.
-lu			      IN A		95.128.36.136
 lu			      IN MX		10 mail-1-p.piratenpartei.ch.
 mail			      IN A		95.128.36.136
 my			      IN CNAME	httponly.piratenpartei.ch.
-ne			      IN A		95.128.36.136
 ne			      IN MX		10 mail-1-p.piratenpartei.ch.
-nw			      IN A		95.128.36.136
 nw			      IN MX		10 mail-1-p.piratenpartei.ch.
-ow			      IN A		95.128.36.136
 ow			      IN MX		10 mail-1-p.piratenpartei.ch.
 projects		      IN A		95.128.36.136
 register		      IN A		95.128.36.136
-sg			      IN A		95.128.36.136
 sg			      IN MX		10 mail-1-p.piratenpartei.ch.
-sh			      IN A		95.128.36.136
 sh			      IN MX		10 mail-1-p.piratenpartei.ch.
 smtp			      IN CNAME	mail.piratenpartei.ch.
-so			      IN A		95.128.36.136
 so			      IN MX		10 mail-1-p.piratenpartei.ch.
-sz			      IN A		95.128.36.136
 sz			      IN MX		10 mail-1-p.piratenpartei.ch.
-tg			      IN A		95.128.36.136
 tg			      IN MX		10 mail-1-p.piratenpartei.ch.
-ti			      IN A		95.128.36.136
 ti			      IN MX		10 mail-1-p.piratenpartei.ch.
-ur			      IN A		95.128.36.136
 ur			      IN MX		10 mail-1-p.piratenpartei.ch.
-vd			      IN A		95.128.36.136
 vd			      IN MX		10 mail-1-p.piratenpartei.ch.
-vs			      IN A		95.128.36.136
 vs			      IN MX		10 mail-1-p.piratenpartei.ch.
 www			      IN CNAME	httponly.piratenpartei.ch.
-zg			      IN A		95.128.36.136
 zg			      IN MX		10 mail-1-p.piratenpartei.ch.
-zh			      IN A		95.128.36.136
 zh			      IN MX		10 mail-1-p.piratenpartei.ch.
 stadt.zh		      IN MX		10 mail-1-p.piratenpartei.ch.
-winterthur.zh		      IN A		95.128.36.136
 winterthur.zh		      IN MX		10 mail-1-p.piratenpartei.ch.
 zs			      IN MX		10 mail-1-p.piratenpartei.ch.
 
-zs			      600 IN A 		149.126.4.43
-steinhausen		      600 IN A 		149.126.4.43
+@		              600 IN A          149.126.4.43
+www                           600 IN A          149.126.4.43
+ag                            600 IN A          149.126.4.43
+ar                            600 IN A          149.126.4.43
+ai                            600 IN A          149.126.4.43
+bl                            600 IN A          149.126.4.43
+bs                            600 IN A          149.126.4.43
+bb                            600 IN A          149.126.4.43
+be                            600 IN A          149.126.4.43
+fr                            600 IN A          149.126.4.43
+ge                            600 IN A          149.126.4.43
+gl                            600 IN A          149.126.4.43
+gr                            600 IN A          149.126.4.43
+ju                            600 IN A          149.126.4.43
+lu                            600 IN A          149.126.4.43
+ne                            600 IN A          149.126.4.43
+nw                            600 IN A          149.126.4.43
+ow                            600 IN A          149.126.4.43
+sh                            600 IN A          149.126.4.43
+sz                            600 IN A          149.126.4.43
+so                            600 IN A          149.126.4.43
+sg                            600 IN A          149.126.4.43
+ti                            600 IN A          149.126.4.43
+tg                            600 IN A          149.126.4.43
+ur                            600 IN A          149.126.4.43
+vd                            600 IN A          149.126.4.43
+vs                            600 IN A          149.126.4.43
+zg                            600 IN A          149.126.4.43
+zh                            600 IN A          149.126.4.43
+zs                            600 IN A          149.126.4.43
+steinhausen                   600 IN A          149.126.4.43
+stadt.zh                      600 IN A          149.126.4.43
+winterthur.zh                 600 IN A          149.126.4.43
+bern.be                       600 IN A          149.126.4.43
+archive                       600 IN A          149.126.4.43
+

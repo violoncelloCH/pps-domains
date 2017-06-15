@@ -1,88 +1,91 @@
-partipirate.ch.				      600 IN A		95.128.36.133
 partipirate.ch.				      600 IN MX		10 mail-1-p.piratenpartei.ch.
 partipirate.ch.				      600 IN TXT	"v=spf1 a mx ?all"
-ag.partipirate.ch.			      600 IN A		95.128.36.133
 ag.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-ai.partipirate.ch.			      600 IN A		95.128.36.133
 ai.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-ar.partipirate.ch.			      600 IN A		95.128.36.133
 ar.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-bb.partipirate.ch.			      600 IN A		95.128.36.133
 bb.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-be.partipirate.ch.			      600 IN A		95.128.36.133
 be.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-bern.be.partipirate.ch.			      600 IN A		95.128.36.136
 bern.be.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-bl.partipirate.ch.			      600 IN A		95.128.36.133
 bl.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-bs.partipirate.ch.			      600 IN A		95.128.36.133
 bs.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 chat.partipirate.ch.			      600 IN A		95.128.36.133
 discourse.partipirate.ch			  600 IN A		78.46.227.181
 equipment.partipirate.ch.		      600 IN A		95.128.36.133
 forum.partipirate.ch.			      600 IN A		95.128.36.133
-fr.partipirate.ch.			      600 IN A		95.128.36.133
 fr.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-ge.partipirate.ch.			      600 IN A		95.128.36.133
 ge.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-gl.partipirate.ch.			      600 IN A		95.128.36.133
 gl.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-gr.partipirate.ch.			      600 IN A		95.128.36.133
 gr.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 id.partipirate.ch.			      600 IN A		78.46.227.180
 info.partipirate.ch.			      600 IN A		95.128.36.133
 irc.partipirate.ch.			      600 IN CNAME	ch.pirateirc.net.
-ju.partipirate.ch.			      600 IN A		95.128.36.133
 ju.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 lists.partipirate.ch.			      600 IN A		95.128.36.133
 lists.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-lu.partipirate.ch.			      600 IN A		95.128.36.133
 lu.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 mail.partipirate.ch.			      600 IN A		95.128.36.133
 my.partipirate.ch.			      600 IN CNAME	httponly.piratenpartei.ch.
-ne.partipirate.ch.			      600 IN A		95.128.36.133
 ne.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-nw.partipirate.ch.			      600 IN A		95.128.36.133
 nw.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 old.partipirate.ch.			      600 IN A		95.128.36.133
-ow.partipirate.ch.			      600 IN A		95.128.36.133
 ow.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 projects.partipirate.ch.		      600 IN A		95.128.36.133
 register.partipirate.ch.		      600 IN A		95.128.36.133
-sg.partipirate.ch.			      600 IN A		95.128.36.133
 sg.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-sh.partipirate.ch.			      600 IN A		95.128.36.133
 sh.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 smtp.partipirate.ch.			      600 IN CNAME	mail.piratenpartei.ch.
-so.partipirate.ch.			      600 IN A		95.128.36.133
 so.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-sz.partipirate.ch.			      600 IN A		95.128.36.133
 sz.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-tg.partipirate.ch.			      600 IN A		95.128.36.133
 tg.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-ti.partipirate.ch.			      600 IN A		95.128.36.133
 ti.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-ur.partipirate.ch.			      600 IN A		95.128.36.133
 ur.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 vvote1.partipirate.ch.			  600 IN A		78.46.227.182
 vvote2.partipirate.ch.			  600 IN A		78.46.227.182
 votation.partipirate.ch.			  600 IN A		78.46.227.181
-vd.partipirate.ch.			      600 IN A		95.128.36.133
 vd.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-vs.partipirate.ch.			      600 IN A		95.128.36.133
 vs.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 wally.partipirate.ch.			      600 IN A		88.198.70.106
 wally.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 www.partipirate.ch.			      600 IN CNAME	partipirate.ch.
-zg.partipirate.ch.			      600 IN A		95.128.36.133
 zg.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-zh.partipirate.ch.			      600 IN A		95.128.36.133
 zh.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 stadt.zh.partipirate.ch.		      600 IN MX		10 mail-1-p.piratenpartei.ch.
-winterthur.zh.partipirate.ch.		      600 IN A		95.128.36.136
 winterthur.zh.partipirate.ch.		      600 IN MX		10 mail-1-p.piratenpartei.ch.
 zs.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 
+@                             600 IN A          149.126.4.43
+www                           600 IN A          149.126.4.43
+ag                            600 IN A          149.126.4.43
+ar                            600 IN A          149.126.4.43
+ai                            600 IN A          149.126.4.43
+bl                            600 IN A          149.126.4.43
+bs                            600 IN A          149.126.4.43
+bb                            600 IN A          149.126.4.43
+be                            600 IN A          149.126.4.43
+fr                            600 IN A          149.126.4.43
+ge                            600 IN A          149.126.4.43
+gl                            600 IN A          149.126.4.43
+gr                            600 IN A          149.126.4.43
+ju                            600 IN A          149.126.4.43
+lu                            600 IN A          149.126.4.43
+ne                            600 IN A          149.126.4.43
+nw                            600 IN A          149.126.4.43
+ow                            600 IN A          149.126.4.43
+sh                            600 IN A          149.126.4.43
+sz                            600 IN A          149.126.4.43
+so                            600 IN A          149.126.4.43
+sg                            600 IN A          149.126.4.43
+ti                            600 IN A          149.126.4.43
+tg                            600 IN A          149.126.4.43
+ur                            600 IN A          149.126.4.43
+vd                            600 IN A          149.126.4.43
+vs                            600 IN A          149.126.4.43
+zg                            600 IN A          149.126.4.43
+zh                            600 IN A          149.126.4.43
 zs                            600 IN A          149.126.4.43
 steinhausen                   600 IN A          149.126.4.43
+stadt.zh                      600 IN A          149.126.4.43
+winterthur.zh                 600 IN A          149.126.4.43
+bern.be                       600 IN A          149.126.4.43
+archive                       600 IN A          149.126.4.43
 
