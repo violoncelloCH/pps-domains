@@ -1,2 +1,6 @@
-wikileaks.ch.			      	      600 IN A		95.128.36.133
-www.wikileaks.ch.			      600 IN CNAME	sni.piratenpartei.ch.
+$ORIGIN wikileaks.ch.
+$TTL 600
+
+@                                             600 IN A          149.126.4.43
+www                                           600 IN A          149.126.4.43
+

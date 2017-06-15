@@ -49,7 +49,6 @@ vd.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 vs.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 wally.partipirate.ch.			      600 IN A		88.198.70.106
 wally.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-www.partipirate.ch.			      600 IN CNAME	partipirate.ch.
 zg.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 zh.partipirate.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 stadt.zh.partipirate.ch.		      600 IN MX		10 mail-1-p.piratenpartei.ch.
