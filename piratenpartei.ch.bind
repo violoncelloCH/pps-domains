@@ -15,6 +15,7 @@ coreos-2-p.piratenpartei.ch.		      600 IN A		172.17.2.11
 coreos-1-t.piratenpartei.ch.		      600 IN A		172.17.100.10
 coreos-2-t.piratenpartei.ch.		      600 IN A		172.17.100.11
 coreos-3-t.piratenpartei.ch.		      600 IN A		172.17.100.12
+coreos-4-p.piratenpartei.ch.		      600 IN A		159.100.252.217
 discourse.piratenpartei.ch.                   600 IN A          78.46.227.181
 elaine.piratenpartei.ch.		      600 IN A		88.198.68.43
 equipment.piratenpartei.ch.		      600 IN A		95.128.36.133
