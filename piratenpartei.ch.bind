@@ -24,7 +24,8 @@ herman.piratenpartei.ch.		      600 IN A		78.46.176.242
 httponly.piratenpartei.ch.		      600 IN A		95.128.36.136
 id.piratenpartei.ch.		     	      600 IN A		78.46.227.180
 info.piratenpartei.ch.			      600 IN A		95.128.36.133
-jump.piratenpartei.ch.			      600 IN A		95.128.36.140
+jump-old.piratenpartei.ch.		      600 IN A		95.128.36.140
+jump.piratenpartei.ch.			      600 IN A		159.100.251.133
 largo.piratenpartei.ch.			      600 IN A		78.46.176.245
 ldap-1-p.piratenpartei.ch.		      600 IN A		172.17.3.14
 ldap-2-p.piratenpartei.ch.		      600 IN A		172.17.3.15
