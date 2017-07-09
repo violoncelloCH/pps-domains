@@ -3,7 +3,7 @@ $TTL 600
 
 abstimmung.piratenpartei.ch.		      600 IN A          78.46.227.181
 admin.piratenpartei.ch.			      600 IN A		95.128.36.133
-api.piratenpartei.ch.			      600 IN A		95.128.36.133
+api.piratenpartei.ch.			      600 IN CNAME	traefik.piratenpartei.ch.
 archive-1-p.piratenpartei.ch.		      600 IN A		172.17.2.78
 backup-1-p.piratenpartei.ch.		      600 IN A		95.128.36.142
 idapi.piratenpartei.ch.			      600 IN A		78.46.227.180
@@ -66,6 +66,7 @@ swpp-1.piratenpartei.ch.		      600 IN AAAA	2001:618:1:146::ff
 swpp-2.piratenpartei.ch.		      600 IN A		95.128.35.30
 test.piratenpartei.ch.   		      600 IN A		176.9.118.213
 *.test.piratenpartei.ch. 		      600 IN A		176.9.118.213
+traefik.piratenpartei.ch.		      600 IN A		159.100.252.217
 vvvote1.piratenpartei.ch.		      600 IN A		78.46.227.182
 vvvote2.piratenpartei.ch.		      600 IN A		78.46.227.182
 virt1.piratenpartei.ch.			      600 IN A		10.1.2.102
