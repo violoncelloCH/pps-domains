@@ -5,51 +5,47 @@ chat.pirate-party.ch.			      600 IN A		95.128.36.136
 equipment.pirate-party.ch.		      600 IN A		95.128.36.136
 forum.pirate-party.ch.			      600 IN A		95.128.36.136
 info.pirate-party.ch.			      600 IN A		95.128.36.136
-lists.pirate-party.ch.			      600 IN A		95.128.36.136
-mail.pirate-party.ch.			      600 IN A		95.128.36.136
 projects.pirate-party.ch.		      600 IN A		95.128.36.136
 register.pirate-party.ch.		      600 IN A		95.128.36.136
 wally.pirate-party.ch.			      600 IN A		95.128.36.136
 
 irc.pirate-party.ch.			      600 IN CNAME	ch.pirateirc.net.
 my.pirate-party.ch.			      600 IN CNAME	httponly.piratenpartei.ch.
-smtp.pirate-party.ch.			      600 IN CNAME	mail.piratenpartei.ch.
 
-pirate-party.ch.			      600 IN TXT	"v=spf1 a mx ?all"
-pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-ag.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-ai.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-ar.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-bb.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-be.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-bern.be.pirate-party.ch.		      600 IN MX		10 mail-1-p.piratenpartei.ch.
-bl.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-bs.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-fr.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-ge.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-gl.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-gr.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-ju.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-lists.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-lu.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-ne.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-nw.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-ow.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-sg.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-sh.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-so.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-sz.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-tg.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-ti.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-ur.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-vd.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-vs.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-wally.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-zg.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-zh.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-stadt.zh.pirate-party.ch.		      600 IN MX		10 mail-1-p.piratenpartei.ch.
-winterthur.zh.pirate-party.ch.		      600 IN MX		10 mail-1-p.piratenpartei.ch.
-zs.pirate-party.ch.			      600 IN MX		10 mail-1-p.piratenpartei.ch.
+@			      600 IN TXT	"v=spf1 a mx ?all"
+@			      600 IN MX		10 mail.cyon.ch.
+ag			      600 IN MX		10 mail.cyon.ch.
+ai			      600 IN MX		10 mail.cyon.ch.
+ar			      600 IN MX		10 mail.cyon.ch.
+bb			      600 IN MX		10 mail.cyon.ch.
+be			      600 IN MX		10 mail.cyon.ch.
+bern.be 		      600 IN MX		10 mail.cyon.ch.
+bl			      600 IN MX		10 mail.cyon.ch.
+bs			      600 IN MX		10 mail.cyon.ch.
+fr			      600 IN MX		10 mail.cyon.ch.
+ge			      600 IN MX		10 mail.cyon.ch.
+gl			      600 IN MX		10 mail.cyon.ch.
+gr			      600 IN MX		10 mail.cyon.ch.
+ju			      600 IN MX		10 mail.cyon.ch.
+lists			      600 IN MX		10 mail.cyon.ch.
+lu			      600 IN MX		10 mail.cyon.ch.
+ne			      600 IN MX		10 mail.cyon.ch.
+nw			      600 IN MX		10 mail.cyon.ch.
+ow			      600 IN MX		10 mail.cyon.ch.
+sg			      600 IN MX		10 mail.cyon.ch.
+sh			      600 IN MX		10 mail.cyon.ch.
+so			      600 IN MX		10 mail.cyon.ch.
+sz			      600 IN MX		10 mail.cyon.ch.
+tg			      600 IN MX		10 mail.cyon.ch.
+ti			      600 IN MX		10 mail.cyon.ch.
+ur			      600 IN MX		10 mail.cyon.ch.
+vd			      600 IN MX		10 mail.cyon.ch.
+vs			      600 IN MX		10 mail.cyon.ch.
+zg			      600 IN MX		10 mail.cyon.ch.
+zh			      600 IN MX		10 mail.cyon.ch.
+stadt.zh		      600 IN MX		10 mail.cyon.ch.
+winterthur.zh		      600 IN MX		10 mail.cyon.ch.
+zs			      600 IN MX		10 mail.cyon.ch.
 
 @                             600 IN A          149.126.4.43
 www                           600 IN A          149.126.4.43
@@ -86,5 +82,6 @@ stadt.zh                      600 IN A          149.126.4.43
 winterthur.zh                 600 IN A          149.126.4.43
 bern.be                       600 IN A          149.126.4.43
 archive                       600 IN A          149.126.4.43
-
+mail                          600 IN A          149.126.4.43
+lists                         600 IN A          149.126.4.43
 
