@@ -119,7 +119,7 @@ zg			      600 IN MX		10 zg.piratenpartei.ch.
 zh			      600 IN MX		10 zh.piratenpartei.ch.
 stadt.zh		      600 IN MX		10 stadt.zh.piratenpartei.ch.
 winterthur.zh		      600 IN MX		10 winterthur.zh.piratenpartei.ch.
-zs			      600 IN MX		10 zs.piratenpartei.ch.
+zs			      600 IN MX		10 piratenpartei.ch.
 
 @		              600 IN A          149.126.4.43
 www                           600 IN A          149.126.4.43
