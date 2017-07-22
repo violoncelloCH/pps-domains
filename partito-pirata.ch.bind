@@ -11,39 +11,39 @@ irc.partito-pirata.ch.			      600 IN CNAME	ch.pirateirc.net.
 my.partito-pirata.ch.			      600 IN CNAME	httponly.piratenpartei.ch.
 
 @			      600 IN TXT	"v=spf1 a mx ?all"
-@			      600 IN MX		10 mail.cyon.ch.
-ag			      600 IN MX		10 mail.cyon.ch.
-ai			      600 IN MX		10 mail.cyon.ch.
-ar			      600 IN MX		10 mail.cyon.ch.
-bb			      600 IN MX		10 mail.cyon.ch.
-be			      600 IN MX		10 mail.cyon.ch.
-bern.be 		      600 IN MX		10 mail.cyon.ch.
-bl			      600 IN MX		10 mail.cyon.ch.
-bs			      600 IN MX		10 mail.cyon.ch.
-fr			      600 IN MX		10 mail.cyon.ch.
-ge			      600 IN MX		10 mail.cyon.ch.
-gl			      600 IN MX		10 mail.cyon.ch.
-gr			      600 IN MX		10 mail.cyon.ch.
-ju			      600 IN MX		10 mail.cyon.ch.
-lists			      600 IN MX		10 mail.cyon.ch.
-lu			      600 IN MX		10 mail.cyon.ch.
-ne			      600 IN MX		10 mail.cyon.ch.
-nw			      600 IN MX		10 mail.cyon.ch.
-ow			      600 IN MX		10 mail.cyon.ch.
-sg			      600 IN MX		10 mail.cyon.ch.
-sh			      600 IN MX		10 mail.cyon.ch.
-so			      600 IN MX		10 mail.cyon.ch.
-sz			      600 IN MX		10 mail.cyon.ch.
-tg			      600 IN MX		10 mail.cyon.ch.
-ti			      600 IN MX		10 mail.cyon.ch.
-ur			      600 IN MX		10 mail.cyon.ch.
-vd			      600 IN MX		10 mail.cyon.ch.
-vs			      600 IN MX		10 mail.cyon.ch.
-zg			      600 IN MX		10 mail.cyon.ch.
-zh			      600 IN MX		10 mail.cyon.ch.
-stadt.zh		      600 IN MX		10 mail.cyon.ch.
-winterthur.zh		      600 IN MX		10 mail.cyon.ch.
-zs			      600 IN MX		10 mail.cyon.ch.
+@			      600 IN MX		10 piratenpartei.ch.
+ag			      600 IN MX		10 piratenpartei.ch.
+ai			      600 IN MX		10 piratenpartei.ch.
+ar			      600 IN MX		10 piratenpartei.ch.
+bb			      600 IN MX		10 piratenpartei.ch.
+be			      600 IN MX		10 piratenpartei.ch.
+bern.be 		      600 IN MX		10 piratenpartei.ch.
+bl			      600 IN MX		10 piratenpartei.ch.
+bs			      600 IN MX		10 piratenpartei.ch.
+fr			      600 IN MX		10 piratenpartei.ch.
+ge			      600 IN MX		10 piratenpartei.ch.
+gl			      600 IN MX		10 piratenpartei.ch.
+gr			      600 IN MX		10 piratenpartei.ch.
+ju			      600 IN MX		10 piratenpartei.ch.
+lists			      600 IN MX		10 piratenpartei.ch.
+lu			      600 IN MX		10 piratenpartei.ch.
+ne			      600 IN MX		10 piratenpartei.ch.
+nw			      600 IN MX		10 piratenpartei.ch.
+ow			      600 IN MX		10 piratenpartei.ch.
+sg			      600 IN MX		10 piratenpartei.ch.
+sh			      600 IN MX		10 piratenpartei.ch.
+so			      600 IN MX		10 piratenpartei.ch.
+sz			      600 IN MX		10 piratenpartei.ch.
+tg			      600 IN MX		10 piratenpartei.ch.
+ti			      600 IN MX		10 piratenpartei.ch.
+ur			      600 IN MX		10 piratenpartei.ch.
+vd			      600 IN MX		10 piratenpartei.ch.
+vs			      600 IN MX		10 piratenpartei.ch.
+zg			      600 IN MX		10 piratenpartei.ch.
+zh			      600 IN MX		10 piratenpartei.ch.
+stadt.zh		      600 IN MX		10 piratenpartei.ch.
+winterthur.zh		      600 IN MX		10 piratenpartei.ch.
+zs			      600 IN MX		10 piratenpartei.ch.
 
 @                             600 IN A          149.126.4.43
 www                           600 IN A          149.126.4.43
