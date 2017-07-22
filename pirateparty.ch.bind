@@ -14,7 +14,7 @@ wally.pirateparty.ch.			      600 IN A		88.198.70.106
 irc.pirateparty.ch.			      600 IN CNAME	ch.pirateirc.net.
 my.pirateparty.ch.			      600 IN CNAME	httponly.piratenpartei.ch.
 
-lists                         600 IN MX         10 lists.piratenpartei.ch.
+lists                         600 IN MX         10 mail-1-p.piratenpartei.ch.
 lists                         600 IN A          95.128.36.136
 
 @			      600 IN TXT	"v=spf1 a mx ?all"
