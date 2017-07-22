@@ -84,6 +84,9 @@ smtprelay.piratenpartei.ch.		      600 IN CNAME	mail-1-p.piratenpartei.ch.
 talk.piratenpartei.ch.			      600 IN CNAME	mumble-2-p.piratenpartei.ch.
 ldap-p.piratenpartei.ch.		      600 IN CNAME	ldap-1-p.piratenpartei.ch.
 
+lists			      600 IN MX		10 lists.piratenpartei.ch.
+lists                         600 IN A		95.128.36.136	
+
 @			      600 IN TXT	"v=spf1 a mx ?all"
 @			      600 IN MX		10 piratenpartei.ch.
 ag			      600 IN MX		10 piratenpartei.ch.
@@ -99,7 +102,6 @@ ge			      600 IN MX		10 piratenpartei.ch.
 gl			      600 IN MX		10 piratenpartei.ch.
 gr			      600 IN MX		10 piratenpartei.ch.
 ju			      600 IN MX		10 piratenpartei.ch.
-lists			      600 IN MX		10 piratenpartei.ch.
 lu			      600 IN MX		10 piratenpartei.ch.
 ne			      600 IN MX		10 piratenpartei.ch.
 nw			      600 IN MX		10 piratenpartei.ch.
@@ -155,7 +157,6 @@ winterthur.zh                 600 IN A          149.126.4.43
 bern.be		              600 IN A          149.126.4.43
 archive		              600 IN A          149.126.4.43
 mail                          600 IN A          149.126.4.43
-lists                         600 IN A          149.126.4.43
 
 ; jump host SSH fingerprint
 ;jump.piratenpartei.ch IN SSHFP 1 1 61255db24cb9723e0e84a5d26d7dd33f5e54e059
