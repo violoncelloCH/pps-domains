@@ -150,10 +150,12 @@ archive		              600 IN A          149.126.4.43
 mail                          600 IN A          149.126.4.43
 
 ; jump host SSH fingerprint
-;jump.piratenpartei.ch IN SSHFP 1 1 61255db24cb9723e0e84a5d26d7dd33f5e54e059
-;jump.piratenpartei.ch IN SSHFP 1 2 03cb18ad9723a8338b897a053a2ee8b6b213f7019e79c93c4c86f50816efabb1
-;jump.piratenpartei.ch IN SSHFP 2 1 6db4c672676ace81c49349544a3a3ba43d946355
-;jump.piratenpartei.ch IN SSHFP 2 2 30fa8d7311c4e915699a8ff4a713205c21e9d1c5ed205d33b42dcaa3dd60376d
-;jump.piratenpartei.ch IN SSHFP 3 1 7578144bd4594f0bad73af5ecdb59d9cbc269e22
-;jump.piratenpartei.ch IN SSHFP 3 2 15ee2832893e4c41082ad4fa93c486033e788d038ff7ef57a5e353e4ccd73e1a
+jump.piratenpartei.ch IN SSHFP 1 1 e0c3f44fd115c5bfad665439fa7c03615608ccb9
+jump.piratenpartei.ch IN SSHFP 1 2 785fd4ea1d4099601ae2c01519839464109c6f2794b6e59e1f28742244a9f60b
+jump.piratenpartei.ch IN SSHFP 2 1 12848dd59b4689d96a512da2b6ab1250eb67127e
+jump.piratenpartei.ch IN SSHFP 2 2 fc6fe7e0702a5f273c15e20df0dc335f380634ee1e041b71bedecb9ff3d83cde
+jump.piratenpartei.ch IN SSHFP 3 1 839048ab99f33d6eff757b1cc7b6f5980fce36a5
+jump.piratenpartei.ch IN SSHFP 3 2 ac8b2e701d5317063b6b8ee6ce4643ef0dd7690f3891ea2ed66d5d84436b8267
+jump.piratenpartei.ch IN SSHFP 4 1 371873b8c583fb8bd15ca9aa4739028f1d652768
+jump.piratenpartei.ch IN SSHFP 4 2 3feef501cafae38795c91306389df92bc2b81706d41f953a80ca42237f281159
 
