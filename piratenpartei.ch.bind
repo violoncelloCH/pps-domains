@@ -72,7 +72,7 @@ zabbix-1-p.piratenpartei.ch.		      600 IN A		172.17.2.43
 
 irc.piratenpartei.ch.			      600 IN CNAME	ch.pirateirc.net.
 smtprelay.piratenpartei.ch.		      600 IN CNAME	mail-1-p.piratenpartei.ch.
-talk.piratenpartei.ch.			      600 IN CNAME	mumble-2-p.piratenpartei.ch.
+talk.piratenpartei.ch.			      600 IN CNAME	coreos-4-p.piratenpartei.ch.
 ldap-p.piratenpartei.ch.		      600 IN CNAME	ldap-1-p.piratenpartei.ch.
 
 lists			      600 IN MX		10 mail-1-p.piratenpartei.ch.
