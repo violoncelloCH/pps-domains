@@ -1,19 +1,11 @@
 $ORIGIN partipirate.ch.
 $TTL 600
 
-chat.partipirate.ch.			      600 IN A		95.128.36.133
 discourse.partipirate.ch		      600 IN A		78.46.227.181
-equipment.partipirate.ch.		      600 IN A		95.128.36.133
-forum.partipirate.ch.			      600 IN A		95.128.36.133
 id.partipirate.ch.			      600 IN A		78.46.227.180
-info.partipirate.ch.			      600 IN A		95.128.36.133
-old.partipirate.ch.			      600 IN A		95.128.36.133
-projects.partipirate.ch.		      600 IN A		95.128.36.133
-register.partipirate.ch.		      600 IN A		95.128.36.133
 vvote1.partipirate.ch.			      600 IN A		78.46.227.182
 vvote2.partipirate.ch.			      600 IN A		78.46.227.182
 votation.partipirate.ch.		      600 IN A		78.46.227.181
-wally.partipirate.ch.			      600 IN A		88.198.70.106
 
 irc.partipirate.ch.			      600 IN CNAME	ch.pirateirc.net.
 my.partipirate.ch.			      600 IN CNAME	httponly.piratenpartei.ch.

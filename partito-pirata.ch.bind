@@ -1,15 +1,6 @@
 $ORIGIN partito-pirata.ch.
 $TTL 600
 
-chat.partito-pirata.ch.			      600 IN A		95.128.36.136
-equipment.partito-pirata.ch.		      600 IN A		95.128.36.136
-forum.partito-pirata.ch.		      600 IN A		95.128.36.136
-info.partito-pirata.ch.			      600 IN A		95.128.36.136
-projects.partito-pirata.ch.		      600 IN A		95.128.36.136
-
-irc.partito-pirata.ch.			      600 IN CNAME	ch.pirateirc.net.
-my.partito-pirata.ch.			      600 IN CNAME	httponly.piratenpartei.ch.
-
 lists                         600 IN MX         10 mail-1-p.piratenpartei.ch.
 lists                         600 IN A          95.128.36.136
 
