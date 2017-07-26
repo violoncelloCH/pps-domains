@@ -78,7 +78,7 @@ ldap-p.piratenpartei.ch.		      600 IN CNAME	ldap-1-p.piratenpartei.ch.
 lists			      600 IN MX		10 mail-1-p.piratenpartei.ch.
 lists                         600 IN A		95.128.36.136	
 
-@			      600 IN TXT	"v=spf1 a mx ?all"
+@			      600 IN TXT	"v=spf1 a:coreos-4-p.piratenpartei.ch a mx ?all"
 @			      600 IN MX		10 piratenpartei.ch.
 ag			      600 IN MX		10 ag.piratenpartei.ch.
 ai			      600 IN MX		10 ai.piratenpartei.ch.
