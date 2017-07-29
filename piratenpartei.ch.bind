@@ -54,9 +54,6 @@ webroundcube-2-p.piratenpartei.ch.	      600 IN A		172.17.2.63
 smtprelay.piratenpartei.ch.		      600 IN CNAME	coreos-4-p.piratenpartei.ch.
 talk.piratenpartei.ch.			      600 IN CNAME	coreos-4-p.piratenpartei.ch.
 
-lists			      600 IN MX		10 mail-1-p.piratenpartei.ch.
-lists                         600 IN A		95.128.36.136	
-
 @			      600 IN TXT	"v=spf1 a:coreos-4-p.piratenpartei.ch a mx ?all"
 @			      600 IN MX		10 piratenpartei.ch.
 ag			      600 IN MX		10 ag.piratenpartei.ch.
@@ -90,6 +87,7 @@ zh			      600 IN MX		10 zh.piratenpartei.ch.
 stadt.zh		      600 IN MX		10 stadt.zh.piratenpartei.ch.
 winterthur.zh		      600 IN MX		10 winterthur.zh.piratenpartei.ch.
 zs			      600 IN MX		10 piratenpartei.ch.
+lists			      600 IN MX		10 piratenpartei.ch.
 
 @		              600 IN A          149.126.4.43
 www                           600 IN A          149.126.4.43
@@ -127,6 +125,7 @@ winterthur.zh                 600 IN A          149.126.4.43
 bern.be		              600 IN A          149.126.4.43
 archive		              600 IN A          149.126.4.43
 mail                          600 IN A          149.126.4.43
+lists                         600 IN A          149.126.4.43
 
 ; jump host SSH fingerprint
 jump.piratenpartei.ch. IN SSHFP 1 1 e0c3f44fd115c5bfad665439fa7c03615608ccb9
