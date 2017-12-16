@@ -1,7 +1,7 @@
 $ORIGIN partipirate.ch.
 $TTL 600
 
-discourse.partipirate.ch		      600 IN A		78.46.227.181
+discourse.partipirate.ch.		      600 IN A		78.46.227.181
 id.partipirate.ch.			      600 IN A		78.46.227.180
 vvote1.partipirate.ch.			      600 IN A		78.46.227.182
 vvote2.partipirate.ch.			      600 IN A		78.46.227.182
