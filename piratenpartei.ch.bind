@@ -11,8 +11,14 @@ info.piratenpartei.ch.			      600 IN CNAME	traefik.piratenpartei.ch.
 jump.piratenpartei.ch.			      600 IN A		159.100.251.133
 members-crm.piratenpartei.ch.		      600 IN CNAME	traefik.piratenpartei.ch.
 my.piratenpartei.ch.			      600 IN A		149.126.4.43
-ns1.piratenpartei.ch.			      600 IN A		78.47.238.210 ; ns1.luadns.net (Germany)
-ns2.piratenpartei.ch.			      600 IN A		185.14.186.249 ; ns2.luadns.net (Netherlands)
+ns1.piratenpartei.ch.			      600 IN AAAA	2001:67c:25a0::1 ; ns1.luadns.net
+ns1.piratenpartei.ch.			      600 IN A		185.142.218.1 ; ns1.luadns.net
+ns2.piratenpartei.ch.			      600 IN AAAA	2001:67c:25a0::2 ; ns2.luadns.net
+ns2.piratenpartei.ch.			      600 IN A		185.142.218.2 ; ns2.luadns.net
+ns3.piratenpartei.ch.			      600 IN AAAA	2001:67c:25a0::3 ; ns3.luadns.net
+ns3.piratenpartei.ch.			      600 IN A		185.142.218.3 ; ns3.luadns.net
+ns4.piratenpartei.ch.			      600 IN AAAA	2001:67c:25a0::4 ; ns4.luadns.net
+ns4.piratenpartei.ch.			      600 IN A		185.142.218.4 ; ns4.luadns.net
 press-crm.piratenpartei.ch.		      600 IN CNAME	traefik.piratenpartei.ch.
 projects.piratenpartei.ch.		      600 IN CNAME	traefik.piratenpartei.ch.
 shop.piratenpartei.ch.			      600 IN A		149.126.4.43
