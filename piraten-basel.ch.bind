@@ -1,9 +1,9 @@
 $ORIGIN piraten-basel.ch.
 $TTL 600
 
-piraten-basel.ch.			      600 IN MX		10 piratenpartei.ch.
+piraten-basel.ch.			      600 IN MX		10 s034.cyon.net.
 piraten-basel.ch.			      600 IN TXT	"v=spf1 a mx ?all"
 piraten-basel.ch.			      600 IN CAA	0 issue "letsencrypt.org"
 
 @			      600 IN A		149.126.4.43
-www			      600 IN A		149.126.4.43
+www			      600 IN CNAME	piraten-basel.ch.

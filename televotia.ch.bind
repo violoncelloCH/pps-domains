@@ -2,7 +2,7 @@ $ORIGIN televotia.ch.
 $TTL 600
 
 @				      	 	600 IN A		149.126.4.43
-www						600 IN A		149.126.4.43
+www						600 IN CNAME		televotia.ch.
 testabstimmung					600 IN A		88.198.212.220
 testdiscourse					600 IN A		88.198.212.220
 testid						600 IN A		88.198.212.220
