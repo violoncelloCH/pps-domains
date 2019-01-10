@@ -109,5 +109,7 @@ jump.piratenpartei.ch. IN SSHFP 2 1 12848dd59b4689d96a512da2b6ab1250eb67127e
 jump.piratenpartei.ch. IN SSHFP 2 2 fc6fe7e0702a5f273c15e20df0dc335f380634ee1e041b71bedecb9ff3d83cde
 jump.piratenpartei.ch. IN SSHFP 3 1 839048ab99f33d6eff757b1cc7b6f5980fce36a5
 jump.piratenpartei.ch. IN SSHFP 3 2 ac8b2e701d5317063b6b8ee6ce4643ef0dd7690f3891ea2ed66d5d84436b8267
+jump.piratenpartei.ch. IN SSHFP 4 1 371873b8c583fb8bd15ca9aa4739028f1d652768
+jump.piratenpartei.ch. IN SSHFP 4 2 3feef501cafae38795c91306389df92bc2b81706d41f953a80ca42237f281159
 
 _github-challenge-ppschweiz.www.piratenpartei.ch.	600 IN TXT	"ee118dbb8c"
