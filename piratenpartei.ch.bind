@@ -4,6 +4,7 @@ $TTL 600
 abstimmung.piratenpartei.ch.		      600 IN A          78.46.227.181
 api.piratenpartei.ch.			      600 IN CNAME	traefik.piratenpartei.ch.
 idapi.piratenpartei.ch.			      600 IN A		78.46.227.180
+cloud.piratenpartei.ch.			      600 IN CNAME	traefik.piratenpartei.ch.
 coreos-4-p.piratenpartei.ch.		      600 IN A		159.100.252.217
 discourse.piratenpartei.ch.                   600 IN A          78.46.227.181
 id.piratenpartei.ch.		     	      600 IN A		78.46.227.180
