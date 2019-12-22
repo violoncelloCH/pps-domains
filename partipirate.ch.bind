@@ -1,82 +1,81 @@
 $ORIGIN partipirate.ch.
 $TTL 600
 
-discourse.partipirate.ch.		      600 IN A		78.46.227.181
-id.partipirate.ch.			      600 IN A		78.46.227.180
-vvote1.partipirate.ch.			      600 IN A		78.46.227.182
-vvote2.partipirate.ch.			      600 IN A		78.46.227.182
-votation.partipirate.ch.		      600 IN A		78.46.227.181
+discourse.partipirate.ch.			IN A		78.46.227.181
+id.partipirate.ch.				IN A		78.46.227.180
+vvote1.partipirate.ch.				IN A		78.46.227.182
+vvote2.partipirate.ch.				IN A		78.46.227.182
+votation.partipirate.ch.			IN A		78.46.227.181
 
-@			      600 IN TXT	"v=spf1 a mx ?all"
-@			      600 IN MX		10 s034.cyon.net.
-ag			      600 IN MX		10 s034.cyon.net.
-ai			      600 IN MX		10 s034.cyon.net.
-ar			      600 IN MX		10 s034.cyon.net.
-bb			      600 IN MX		10 s034.cyon.net.
-be			      600 IN MX		10 s034.cyon.net.
-bern.be 		      600 IN MX		10 s034.cyon.net.
-bl			      600 IN MX		10 s034.cyon.net.
-bs			      600 IN MX		10 s034.cyon.net.
-fr			      600 IN MX		10 s034.cyon.net.
-ge			      600 IN MX		10 s034.cyon.net.
-gl			      600 IN MX		10 s034.cyon.net.
-gr			      600 IN MX		10 s034.cyon.net.
-ju			      600 IN MX		10 s034.cyon.net.
-lu			      600 IN MX		10 s034.cyon.net.
-ne			      600 IN MX		10 s034.cyon.net.
-nw			      600 IN MX		10 s034.cyon.net.
-ow			      600 IN MX		10 s034.cyon.net.
-sg			      600 IN MX		10 s034.cyon.net.
-sh			      600 IN MX		10 s034.cyon.net.
-so			      600 IN MX		10 s034.cyon.net.
-sz			      600 IN MX		10 s034.cyon.net.
-tg			      600 IN MX		10 s034.cyon.net.
-ti			      600 IN MX		10 s034.cyon.net.
-ur			      600 IN MX		10 s034.cyon.net.
-vd			      600 IN MX		10 s034.cyon.net.
-vs			      600 IN MX		10 s034.cyon.net.
-zg			      600 IN MX		10 s034.cyon.net.
-zh			      600 IN MX		10 s034.cyon.net.
-stadt.zh		      600 IN MX		10 s034.cyon.net.
-winterthur.zh		      600 IN MX		10 s034.cyon.net.
-zs			      600 IN MX		10 s034.cyon.net.
-lists			      600 IN MX		10 s034.cyon.net.
+@						IN TXT		"v=spf1 a mx ?all"
+@						IN MX		10 s034.cyon.net.
+ag						IN MX		10 s034.cyon.net.
+ai						IN MX		10 s034.cyon.net.
+ar						IN MX		10 s034.cyon.net.
+bb						IN MX		10 s034.cyon.net.
+be						IN MX		10 s034.cyon.net.
+bern.be 					IN MX		10 s034.cyon.net.
+bl						IN MX		10 s034.cyon.net.
+bs						IN MX		10 s034.cyon.net.
+fr						IN MX		10 s034.cyon.net.
+ge						IN MX		10 s034.cyon.net.
+gl						IN MX		10 s034.cyon.net.
+gr						IN MX		10 s034.cyon.net.
+ju						IN MX		10 s034.cyon.net.
+lu						IN MX		10 s034.cyon.net.
+ne						IN MX		10 s034.cyon.net.
+nw						IN MX		10 s034.cyon.net.
+ow						IN MX		10 s034.cyon.net.
+sg						IN MX		10 s034.cyon.net.
+sh						IN MX		10 s034.cyon.net.
+so						IN MX		10 s034.cyon.net.
+sz						IN MX		10 s034.cyon.net.
+tg						IN MX		10 s034.cyon.net.
+ti						IN MX		10 s034.cyon.net.
+ur						IN MX		10 s034.cyon.net.
+vd						IN MX		10 s034.cyon.net.
+vs						IN MX		10 s034.cyon.net.
+zg						IN MX		10 s034.cyon.net.
+zh						IN MX		10 s034.cyon.net.
+stadt.zh					IN MX		10 s034.cyon.net.
+winterthur.zh					IN MX		10 s034.cyon.net.
+zs						IN MX		10 s034.cyon.net.
+lists						IN MX		10 s034.cyon.net.
 
-@                             600 IN A          149.126.4.43
-www                           600 IN A          149.126.4.43
-ag                            600 IN A          149.126.4.43
-ar                            600 IN A          149.126.4.43
-ai                            600 IN A          149.126.4.43
-bl                            600 IN A          149.126.4.43
-bs                            600 IN A          149.126.4.43
-bb                            600 IN A          149.126.4.43
-be                            600 IN A          149.126.4.43
-fr                            600 IN A          149.126.4.43
-ge                            600 IN A          149.126.4.43
-gl                            600 IN A          149.126.4.43
-gr                            600 IN A          149.126.4.43
-ju                            600 IN A          149.126.4.43
-lu                            600 IN A          149.126.4.43
-ne                            600 IN A          149.126.4.43
-nw                            600 IN A          149.126.4.43
-ow                            600 IN A          149.126.4.43
-sh                            600 IN A          149.126.4.43
-sz                            600 IN A          149.126.4.43
-so                            600 IN A          149.126.4.43
-sg                            600 IN A          149.126.4.43
-ti                            600 IN A          149.126.4.43
-tg                            600 IN A          149.126.4.43
-ur                            600 IN A          149.126.4.43
-vd                            600 IN A          149.126.4.43
-vs                            600 IN A          149.126.4.43
-zg                            600 IN A          149.126.4.43
-zh                            600 IN A          149.126.4.43
-zs                            600 IN A          149.126.4.43
-steinhausen                   600 IN A          149.126.4.43
-stadt.zh                      600 IN A          149.126.4.43
-winterthur.zh                 600 IN A          149.126.4.43
-bern.be                       600 IN A          149.126.4.43
-archive                       600 IN A          149.126.4.43
-mail	                      600 IN A          149.126.4.43
-lists	                      600 IN A          149.126.4.43
-
+@						IN A		149.126.4.43
+www						IN A		149.126.4.43
+ag						IN A		149.126.4.43
+ar						IN A		149.126.4.43
+ai						IN A		149.126.4.43
+bl						IN A		149.126.4.43
+bs						IN A		149.126.4.43
+bb						IN A		149.126.4.43
+be						IN A		149.126.4.43
+fr						IN A		149.126.4.43
+ge						IN A		149.126.4.43
+gl						IN A		149.126.4.43
+gr						IN A		149.126.4.43
+ju						IN A		149.126.4.43
+lu						IN A		149.126.4.43
+ne						IN A		149.126.4.43
+nw						IN A		149.126.4.43
+ow						IN A		149.126.4.43
+sh						IN A		149.126.4.43
+sz						IN A		149.126.4.43
+so						IN A		149.126.4.43
+sg						IN A		149.126.4.43
+ti						IN A		149.126.4.43
+tg						IN A		149.126.4.43
+ur						IN A		149.126.4.43
+vd						IN A		149.126.4.43
+vs						IN A		149.126.4.43
+zg						IN A		149.126.4.43
+zh						IN A		149.126.4.43
+zs						IN A		149.126.4.43
+steinhausen					IN A		149.126.4.43
+stadt.zh					IN A		149.126.4.43
+winterthur.zh					IN A		149.126.4.43
+bern.be						IN A		149.126.4.43
+archive						IN A		149.126.4.43
+mail						IN A		149.126.4.43
+lists						IN A		149.126.4.43
