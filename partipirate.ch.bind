@@ -42,6 +42,44 @@ winterthur.zh					IN MX		10 s034.cyon.net.
 zs						IN MX		10 s034.cyon.net.
 lists						IN MX		10 s034.cyon.net.
 
+@						IN AAAA		2a01:ab20:0:4::43
+www						IN AAAA		2a01:ab20:0:4::43
+ag						IN AAAA		2a01:ab20:0:4::43
+ar						IN AAAA		2a01:ab20:0:4::43
+ai						IN AAAA		2a01:ab20:0:4::43
+bl						IN AAAA		2a01:ab20:0:4::43
+bs						IN AAAA		2a01:ab20:0:4::43
+bb						IN AAAA		2a01:ab20:0:4::43
+be						IN AAAA		2a01:ab20:0:4::43
+fr						IN AAAA		2a01:ab20:0:4::43
+ge						IN AAAA		2a01:ab20:0:4::43
+gl						IN AAAA		2a01:ab20:0:4::43
+gr						IN AAAA		2a01:ab20:0:4::43
+ju						IN AAAA		2a01:ab20:0:4::43
+lu						IN AAAA		2a01:ab20:0:4::43
+ne						IN AAAA		2a01:ab20:0:4::43
+nw						IN AAAA		2a01:ab20:0:4::43
+ow						IN AAAA		2a01:ab20:0:4::43
+sh						IN AAAA		2a01:ab20:0:4::43
+sz						IN AAAA		2a01:ab20:0:4::43
+so						IN AAAA		2a01:ab20:0:4::43
+sg						IN AAAA		2a01:ab20:0:4::43
+ti						IN AAAA		2a01:ab20:0:4::43
+tg						IN AAAA		2a01:ab20:0:4::43
+ur						IN AAAA		2a01:ab20:0:4::43
+vd						IN AAAA		2a01:ab20:0:4::43
+vs						IN AAAA		2a01:ab20:0:4::43
+zg						IN AAAA		2a01:ab20:0:4::43
+zh						IN AAAA		2a01:ab20:0:4::43
+zs						IN AAAA		2a01:ab20:0:4::43
+steinhausen					IN AAAA		2a01:ab20:0:4::43
+stadt.zh					IN AAAA		2a01:ab20:0:4::43
+winterthur.zh					IN AAAA		2a01:ab20:0:4::43
+bern.be						IN AAAA		2a01:ab20:0:4::43
+archive						IN AAAA		2a01:ab20:0:4::43
+mail						IN AAAA		2a01:ab20:0:4::43
+lists						IN AAAA		2a01:ab20:0:4::43
+
 @						IN A		149.126.4.43
 www						IN A		149.126.4.43
 ag						IN A		149.126.4.43
