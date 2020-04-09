@@ -2,6 +2,6 @@ $ORIGIN piraten-kleinbasel.ch.
 $TTL 3600
 
 @						IN CAA		0 issue "letsencrypt.org"
-@						IN A		149.126.4.43
 @						IN AAAA		2a01:ab20:0:4::43
+@						IN A		149.126.4.43
 www						IN CNAME	piraten-kleinbasel.ch.
