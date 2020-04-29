@@ -11,7 +11,7 @@ a("archive", "149.126.4.43")
 a("mail", "149.126.4.43")
 a("lists", "149.126.4.43")
 
-mx(_a, "piratenpartei.ch", 10)
-mx("lists", "piratenpartei.ch", 10)
+mx(_a, "s034.cyon.net", 10)
+mx("lists", "s034.cyon.net", 10)
 
 pps_sections("piratenpartei.ch")
