@@ -6,6 +6,8 @@ api.piratenpartei.ch.				IN CNAME	traefik.piratenpartei.ch.
 idapi.piratenpartei.ch.				IN A		78.46.227.180
 cloud.piratenpartei.ch.				IN CNAME	traefik.piratenpartei.ch.
 coreos-4-p.piratenpartei.ch.			IN A		159.100.252.217
+coreos-5-p.piratenpartei.ch.			IN AAAA		2a04:c44:e00:33b4:46b:5cff:fe00:6fe
+coreos-5-p.piratenpartei.ch.			IN A		159.100.254.166
 discourse.piratenpartei.ch.			IN A		78.46.227.181
 forum.piratenpartei.ch.				IN AAAA		2a01:ab20:0:4::43
 forum.piratenpartei.ch.				IN A		149.126.4.43
