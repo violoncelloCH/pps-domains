@@ -114,6 +114,11 @@ lists						IN AAAA		2a01:ab20:0:4::43
 ppic						IN AAAA		2a01:ab20:0:4::43
 wahl19						IN AAAA		2a01:ab20:0:4::43
 e-id						IN AAAA		2a01:ab20:0:4::43
+pr0						IN AAAA		2a01:ab20:0:4::43
+fans						IN AAAA		2a01:ab20:0:4::43
+pmt						IN AAAA		2a01:ab20:0:4::43
+schuetzen					IN AAAA		2a01:ab20:0:4::43
+vergissmeinich					IN AAAA		2a01:ab20:0:4::43
 
 @						IN A		149.126.4.43
 www						IN A		149.126.4.43
@@ -155,6 +160,11 @@ lists						IN A		149.126.4.43
 ppic						IN A		149.126.4.43
 wahl19						IN A		149.126.4.43
 e-id						IN A		149.126.4.43
+pr0						IN A		149.126.4.43
+fans						IN A		149.126.4.43
+pmt						IN A		149.126.4.43
+schuetzen					IN A		149.126.4.43
+vergissmeinich					IN A		149.126.4.43
 
 ; jump host SSH fingerprint
 jump.piratenpartei.ch.				IN SSHFP	1 2 785fd4ea1d4099601ae2c01519839464109c6f2794b6e59e1f28742244a9f60b
