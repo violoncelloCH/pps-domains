@@ -120,7 +120,8 @@ pmt						IN AAAA		2a01:ab20:0:4::43
 schuetzen					IN AAAA		2a01:ab20:0:4::43
 vergissmeinich					IN AAAA		2a01:ab20:0:4::43
 stimmrechtsbeschwerde				IN AAAA		2a01:ab20:0:4::43
-antivirus 	        			IN AAAA		2a01:ab20:0:4::43
+antivirus					IN AAAA		2a01:ab20:0:4::43
+vernehmlassung					IN AAAA		2a01:ab20:0:4::43
 
 @						IN A		149.126.4.43
 www						IN A		149.126.4.43
@@ -168,7 +169,8 @@ pmt						IN A		149.126.4.43
 schuetzen					IN A		149.126.4.43
 vergissmeinich					IN A		149.126.4.43
 stimmrechtsbeschwerde				IN A		149.126.4.43
-antivirus 			        	IN A		149.126.4.43
+antivirus					IN A		149.126.4.43
+vernehmlassung					IN A		149.126.4.43
 
 ; jump host SSH fingerprint
 jump.piratenpartei.ch.				IN SSHFP	1 2 785fd4ea1d4099601ae2c01519839464109c6f2794b6e59e1f28742244a9f60b
