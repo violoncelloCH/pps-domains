@@ -7,7 +7,7 @@ vvote1.partipirate.ch.				IN A		78.46.227.182
 vvote2.partipirate.ch.				IN A		78.46.227.182
 votation.partipirate.ch.			IN A		78.46.227.181
 
-@						IN TXT		"v=spf1 a mx ?all"
+@						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 @						IN MX		10 s034.cyon.net.
 ag						IN MX		10 s034.cyon.net.
 ai						IN MX		10 s034.cyon.net.

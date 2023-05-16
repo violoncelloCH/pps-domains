@@ -1,4 +1,4 @@
-txt(_a, "v=spf1 a mx ?all")
+txt(_a, "v=spf1 a mx include:spf.protection.cyon.net ?all")
 
 aaaa(_a, "2a01:ab20:0:4::43")
 aaaa("www", "2a01:ab20:0:4::43")

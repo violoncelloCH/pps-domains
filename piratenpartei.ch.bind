@@ -46,7 +46,7 @@ vvvote2.piratenpartei.ch.			IN A		78.46.227.182
 smtprelay.piratenpartei.ch.			IN CNAME	coreos-5-p.piratenpartei.ch.
 talk.piratenpartei.ch.				IN CNAME	coreos-5-p.piratenpartei.ch.
 
-@						IN TXT		"v=spf1 a:coreos-5-p.piratenpartei.ch a mx ?all"
+@						IN TXT		"v=spf1 a:coreos-5-p.piratenpartei.ch a mx include:spf.protection.cyon.net ?all"
 @						IN MX		10 s034.cyon.net.
 ag						IN MX		10 s034.cyon.net.
 ai						IN MX		10 s034.cyon.net.
