@@ -40,6 +40,7 @@ shop.piratenpartei.ch.				IN AAAA		2a01:ab20:0:4::43
 shop.piratenpartei.ch.				IN A		149.126.4.43
 traefik.piratenpartei.ch.			IN AAAA		2a04:c44:e00:33b4:46b:5cff:fe00:6fe
 traefik.piratenpartei.ch.			IN A		159.100.254.166
+traefik.piratenpartei.ch.			IN TXT		"v=spf1 a:coreos-5-p.piratenpartei.ch a mx include:spf.protection.cyon.net ?all"
 vvvote1.piratenpartei.ch.			IN A		78.46.227.182
 vvvote2.piratenpartei.ch.			IN A		78.46.227.182
 
