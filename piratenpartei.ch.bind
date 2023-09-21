@@ -190,4 +190,3 @@ jump.piratenpartei.ch.				IN SSHFP	4 2 3feef501cafae38795c91306389df92bc2b81706d
 
 _github-challenge-ppschweiz.piratenpartei.ch.		IN TXT	"11aa7fb233"
 _github-challenge-ppschweiz.www.piratenpartei.ch.	IN TXT	"ee118dbb8c"
-default._domainkey					IN TXT		"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1VYzrhWp2mCQtnb8l3x5QZtupblaQS3t7hjoCZqVB8gO1lFwWVAsvVxhwoAwBAMT50P5NDuMxqvC3Guwf88R+oc7rt1LggKrw5T6hBzuzxTwDIghqglTjolKCXrgTqg1xFp3nlvt/CPGdom/xrzPLwLLCQfsBoBOqX5AgJuabMS/2MlR1tbnOuMR1CyRABHV5e9JNObx+lx5SCn5AdQoYSoFUCCwWKemRI1y5VbKFhL2Z8cSCl2VVHlJaKmTf/BlfIgRpD/lCXP4yBZdQVVd+u3d6RsmIk4J2f60ZjUM55gKfVpXTeXtHGWfc1Z48bZOeNlWvcahFeOM+rYv+Q11nwIDAQAB"
