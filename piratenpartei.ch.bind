@@ -110,7 +110,7 @@ ur						IN AAAA		2a01:ab20:0:4::43
 vd						IN AAAA		2a01:ab20:0:4::43
 vs						IN AAAA		2a01:ab20:0:4::43
 zg						IN AAAA		2a01:ab20:0:4::43
-zh						IN AAAA		2a01:ab20:0:4::43
+zh						IN AAAA		2001:1600:13:102:f816:3eff:fe43:ca11
 zs						IN AAAA		2a01:ab20:0:4::43
 steinhausen					IN AAAA		2a01:ab20:0:4::43
 stadt.zh					IN AAAA		2a01:ab20:0:4::43
@@ -160,7 +160,7 @@ ur						IN A		149.126.4.43
 vd						IN A		149.126.4.43
 vs						IN A		149.126.4.43
 zg						IN A		149.126.4.43
-zh						IN A		149.126.4.43
+zh						IN A		84.16.72.160
 zs						IN A		149.126.4.43
 steinhausen					IN A		149.126.4.43
 stadt.zh					IN A		149.126.4.43
