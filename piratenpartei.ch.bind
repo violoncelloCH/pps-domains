@@ -25,6 +25,7 @@ matrix.piratenpartei.ch.			IN AAAA		2a03:4000:21:2b:983b:7eff:fedb:6b4b
 members-crm.piratenpartei.ch.			IN CNAME	traefik.piratenpartei.ch.
 my.piratenpartei.ch.				IN AAAA		2a01:ab20:0:4::43
 my.piratenpartei.ch.				IN A		149.126.4.43
+newsletter.piratenpartei.ch.			IN CNAME	traefik.piratenpartei.ch.
 ns1.piratenpartei.ch.				IN AAAA		2001:67c:25a0::1 ; ns1.luadns.net
 ns1.piratenpartei.ch.				IN A		185.142.218.1 ; ns1.luadns.net
 ns2.piratenpartei.ch.				IN AAAA		2001:67c:25a0::2 ; ns2.luadns.net
