@@ -51,37 +51,69 @@ talk.piratenpartei.ch.				IN CNAME	coreos-5-p.piratenpartei.ch.
 @						IN TXT		"v=spf1 a:coreos-5-p.piratenpartei.ch a mx include:spf.protection.cyon.net ?all"
 @						IN MX		10 s034.cyon.net.
 ag						IN MX		10 s034.cyon.net.
+ag						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 ai						IN MX		10 s034.cyon.net.
+ai						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 ar						IN MX		10 s034.cyon.net.
+ar						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 bb						IN MX		10 s034.cyon.net.
+bb						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 be						IN MX		10 s034.cyon.net.
+be						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 bern.be 					IN MX		10 s034.cyon.net.
+bern.be						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 bl						IN MX		10 s034.cyon.net.
+bl						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 bs						IN MX		10 s034.cyon.net.
+bs						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 fr						IN MX		10 s034.cyon.net.
+fr						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 ge						IN MX		10 s034.cyon.net.
+ge						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 gl						IN MX		10 s034.cyon.net.
+gl						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 gr						IN MX		10 s034.cyon.net.
+gr						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 ju						IN MX		10 s034.cyon.net.
+ju						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 lu						IN MX		10 s034.cyon.net.
+lu						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 ne						IN MX		10 s034.cyon.net.
+ne						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 nw						IN MX		10 s034.cyon.net.
+nw						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 ow						IN MX		10 s034.cyon.net.
+ow						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 sg						IN MX		10 s034.cyon.net.
+sg						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 sh						IN MX		10 s034.cyon.net.
+sh						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 so						IN MX		10 s034.cyon.net.
+so						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 sz						IN MX		10 s034.cyon.net.
+sz						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 tg						IN MX		10 s034.cyon.net.
+tg						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 ti						IN MX		10 s034.cyon.net.
+ti						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 ur						IN MX		10 s034.cyon.net.
+ur						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 vd						IN MX		10 s034.cyon.net.
+vd						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 vs						IN MX		10 s034.cyon.net.
+vs						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 zg						IN MX		10 s034.cyon.net.
+zg						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 zh						IN MX		10 s034.cyon.net.
+zh						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 stadt.zh					IN MX		10 s034.cyon.net.
+stadt.zh					IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 winterthur.zh					IN MX		10 s034.cyon.net.
+winterthur.zh					IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 zs						IN MX		10 s034.cyon.net.
+zs						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 lists						IN MX		10 s034.cyon.net.
+lists						IN TXT		"v=spf1 a mx include:spf.protection.cyon.net ?all"
 
 @						IN AAAA		2a01:ab20:0:4::43
 www						IN AAAA		2a01:ab20:0:4::43
