@@ -12,6 +12,7 @@ coreos-4-p.piratenpartei.ch.			IN A		159.100.252.217
 coreos-5-p.piratenpartei.ch.			IN AAAA		2a04:c44:e00:33b4:46b:5cff:fe00:6fe
 coreos-5-p.piratenpartei.ch.			IN A		159.100.254.166
 discourse.piratenpartei.ch.			IN A		78.46.227.181
+e-id.piratenpartei.ch.              IN CNAME    e-id-gesetz-nein.ch.
 element.piratenpartei.ch.			IN A		94.16.123.176
 element.piratenpartei.ch.			IN AAAA		2a03:4000:21:2b:983b:7eff:fedb:6b4b
 forum.piratenpartei.ch.				IN AAAA		2a01:ab20:0:4::43
@@ -155,7 +156,6 @@ lists						IN AAAA		2a01:ab20:0:4::43
 ppic						IN AAAA		2a01:ab20:0:4::43
 wahl19						IN AAAA		2a01:ab20:0:4::43
 wahl23						IN AAAA		2a01:ab20:0:4::43
-e-id						IN AAAA		2a01:ab20:0:4::43
 pr0						IN AAAA		2a01:ab20:0:4::43
 fans						IN AAAA		2a01:ab20:0:4::43
 pmt						IN AAAA		2a01:ab20:0:4::43
@@ -205,7 +205,6 @@ lists						IN A		149.126.4.43
 ppic						IN A		149.126.4.43
 wahl19						IN A		149.126.4.43
 wahl23						IN A		149.126.4.43
-e-id						IN A		149.126.4.43
 pr0						IN A		149.126.4.43
 fans						IN A		149.126.4.43
 pmt						IN A		149.126.4.43
